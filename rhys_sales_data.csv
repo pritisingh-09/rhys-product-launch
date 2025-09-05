@@ -1,0 +1,2001 @@
+Order_ID,Date,Region,SKU,Channel,Price,Quantity,Revenue,Profit,Customer_Type,Return_Flag
+RHYS-1000,2024-10-07,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1001,2024-06-24,Bengaluru,College Pop Tee,Website,650,2,1300,663.0,New,0
+RHYS-1002,2025-01-05,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1003,2025-01-09,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,New,1
+RHYS-1004,2024-07-25,Bengaluru,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-1005,2024-09-07,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1006,2025-02-25,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1007,2024-10-19,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1008,2024-10-30,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1009,2024-03-28,Pune,Streetwear Hoodie,College Stall,600,2,1200,612.0,Returning,0
+RHYS-1010,2024-06-21,Mumbai,Classic Black Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1011,2024-07-09,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1012,2024-12-21,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1013,2025-01-05,Bengaluru,Streetwear Hoodie,College Stall,700,1,700,357.0,Returning,0
+RHYS-1014,2025-02-23,Mumbai,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1015,2024-11-20,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1016,2024-06-24,Bengaluru,College Pop Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1017,2024-08-19,Bengaluru,Streetwear Hoodie,Website,650,2,1300,663.0,New,0
+RHYS-1018,2024-03-18,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1019,2024-12-23,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1020,2024-05-13,Hyderabad,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1021,2024-12-01,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1022,2024-04-23,Pune,Dragon Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1023,2024-07-21,Mumbai,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1024,2024-12-10,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1025,2024-05-26,Bengaluru,Streetwear Hoodie,Website,550,2,1100,561.0,Returning,0
+RHYS-1026,2024-11-03,Pune,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1027,2024-11-10,Pune,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1028,2025-02-06,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1029,2024-03-05,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1030,2024-05-16,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1031,2024-04-08,Pune,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1032,2025-01-26,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1033,2024-07-02,Hyderabad,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1034,2024-07-17,Mumbai,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1035,2024-12-25,Bengaluru,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-1036,2024-07-31,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-1037,2024-10-18,Pune,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1038,2024-05-31,Pune,Dragon Tee,Website,650,2,1300,663.0,New,0
+RHYS-1039,2024-06-23,Hyderabad,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-1040,2024-04-01,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1041,2024-11-30,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1042,2024-07-10,Pune,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1043,2024-04-30,Pune,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1044,2024-06-23,Bengaluru,College Pop Tee,College Stall,700,2,1400,714.0,Returning,0
+RHYS-1045,2025-01-15,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1046,2024-05-17,Pune,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1047,2024-04-05,Pune,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1048,2024-06-14,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1049,2024-05-30,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1050,2024-11-01,Mumbai,Streetwear Hoodie,Website,650,2,1300,663.0,Returning,0
+RHYS-1051,2024-08-04,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1052,2024-04-02,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1053,2024-03-31,Mumbai,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1054,2025-02-01,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1055,2025-01-14,Pune,College Pop Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-1056,2024-05-23,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1057,2024-05-09,Hyderabad,Minimal Logo Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-1058,2024-12-15,Mumbai,Dragon Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1059,2024-09-28,Bengaluru,Classic Black Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1060,2025-01-25,Pune,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1061,2024-11-02,Pune,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1062,2024-06-27,Hyderabad,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1063,2025-01-08,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1064,2024-11-26,Mumbai,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1065,2024-03-19,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1066,2024-05-18,Mumbai,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1067,2024-03-19,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1068,2024-09-16,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1069,2024-05-08,Bengaluru,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1070,2024-05-01,Bengaluru,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1071,2024-04-03,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1072,2024-12-30,Bengaluru,Streetwear Hoodie,Website,600,2,1200,612.0,Returning,0
+RHYS-1073,2024-10-06,Pune,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1074,2024-05-15,Bengaluru,Classic Black Tee,Website,700,2,1400,714.0,New,0
+RHYS-1075,2025-01-13,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1076,2024-09-24,Mumbai,Classic Black Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1077,2024-09-30,Pune,Dragon Tee,Website,550,2,1100,561.0,New,0
+RHYS-1078,2025-01-11,Pune,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1079,2024-04-01,Bengaluru,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1080,2024-05-02,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1081,2024-09-20,Hyderabad,Minimal Logo Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1082,2025-01-11,Mumbai,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1083,2025-01-13,Pune,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1084,2024-09-28,Bengaluru,Streetwear Hoodie,Website,700,1,700,357.0,New,0
+RHYS-1085,2024-03-13,Pune,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1086,2025-01-06,Hyderabad,Minimal Logo Tee,Website,550,2,1100,561.0,New,0
+RHYS-1087,2024-06-05,Mumbai,Minimal Logo Tee,College Stall,650,1,650,331.5,New,1
+RHYS-1088,2024-06-26,Pune,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1089,2024-10-12,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1090,2025-01-11,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1091,2024-06-07,Mumbai,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1092,2025-02-10,Mumbai,Streetwear Hoodie,Website,600,2,1200,612.0,Returning,0
+RHYS-1093,2024-12-04,Pune,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1094,2025-02-05,Pune,Minimal Logo Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-1095,2024-12-21,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1096,2025-01-26,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1097,2025-02-28,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1098,2024-07-24,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1099,2024-03-11,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1100,2024-11-29,Pune,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1101,2024-07-14,Hyderabad,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1102,2025-01-06,Hyderabad,Dragon Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1103,2024-03-11,Pune,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1104,2024-07-19,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1105,2025-01-16,Bengaluru,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1106,2024-08-09,Pune,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1107,2024-05-05,Bengaluru,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1108,2024-08-06,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1109,2024-12-11,Bengaluru,Minimal Logo Tee,Website,550,2,1100,561.0,New,0
+RHYS-1110,2024-04-02,Pune,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1111,2024-05-11,Bengaluru,Classic Black Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1112,2024-06-14,Pune,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1113,2025-01-08,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1114,2024-03-21,Pune,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1115,2024-06-02,Pune,Classic Black Tee,Website,600,2,1200,612.0,New,0
+RHYS-1116,2024-09-07,Pune,Dragon Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-1117,2024-11-01,Mumbai,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1118,2025-02-26,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1119,2025-01-10,Mumbai,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1120,2024-06-22,Hyderabad,College Pop Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1121,2024-04-03,Pune,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1122,2024-10-14,Mumbai,Streetwear Hoodie,College Stall,700,1,700,357.0,New,1
+RHYS-1123,2024-04-06,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1124,2024-03-15,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1125,2024-08-14,Hyderabad,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1126,2024-08-30,Hyderabad,Streetwear Hoodie,Website,700,1,700,357.0,New,0
+RHYS-1127,2024-05-27,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1128,2024-08-10,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-1129,2024-11-10,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1130,2024-08-03,Mumbai,Classic Black Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1131,2024-09-02,Pune,Dragon Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-1132,2024-11-05,Hyderabad,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-1133,2024-08-11,Pune,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-1134,2024-03-26,Hyderabad,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1135,2024-03-07,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1136,2024-10-31,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1137,2024-06-06,Bengaluru,Streetwear Hoodie,College Stall,600,1,600,306.0,New,1
+RHYS-1138,2025-01-29,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1139,2024-11-27,Hyderabad,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1140,2024-06-28,Pune,Classic Black Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1141,2025-01-19,Pune,Minimal Logo Tee,College Stall,700,2,1400,714.0,Returning,0
+RHYS-1142,2024-11-16,Pune,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1143,2024-11-28,Pune,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1144,2024-06-18,Pune,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1145,2024-05-14,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,1
+RHYS-1146,2024-04-11,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1147,2024-07-19,Bengaluru,Streetwear Hoodie,Website,700,2,1400,714.0,New,0
+RHYS-1148,2024-12-05,Bengaluru,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1149,2024-10-18,Mumbai,College Pop Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1150,2024-12-16,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1151,2024-11-03,Bengaluru,Minimal Logo Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1152,2024-05-19,Hyderabad,Classic Black Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1153,2024-08-16,Pune,Classic Black Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1154,2024-07-21,Mumbai,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-1155,2025-01-22,Bengaluru,Dragon Tee,College Stall,700,2,1400,714.0,Returning,0
+RHYS-1156,2024-09-10,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1157,2025-02-27,Bengaluru,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1158,2024-03-27,Mumbai,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-1159,2024-05-12,Hyderabad,Minimal Logo Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1160,2025-01-24,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1161,2024-07-25,Hyderabad,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1162,2025-02-14,Mumbai,Dragon Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-1163,2024-12-30,Bengaluru,College Pop Tee,Website,600,2,1200,612.0,New,0
+RHYS-1164,2024-07-06,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1165,2024-11-11,Pune,Dragon Tee,College Stall,700,1,700,357.0,New,0
+RHYS-1166,2024-07-04,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1167,2024-05-23,Pune,Dragon Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-1168,2024-07-19,Pune,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1169,2024-10-17,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1170,2024-11-02,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1171,2025-01-05,Hyderabad,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1172,2025-01-30,Bengaluru,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1173,2025-02-09,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1174,2024-08-30,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1175,2024-10-10,Mumbai,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1176,2024-06-05,Bengaluru,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1177,2024-12-31,Bengaluru,Classic Black Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1178,2024-10-17,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1179,2024-04-26,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1180,2024-07-18,Bengaluru,Minimal Logo Tee,College Stall,550,2,1100,561.0,Returning,0
+RHYS-1181,2024-11-23,Hyderabad,College Pop Tee,College Stall,650,1,650,331.5,New,1
+RHYS-1182,2024-03-25,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1183,2024-04-29,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1184,2024-03-05,Hyderabad,Classic Black Tee,Website,650,2,1300,663.0,New,0
+RHYS-1185,2024-08-01,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1186,2024-12-09,Hyderabad,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1187,2024-11-10,Bengaluru,Streetwear Hoodie,Website,600,2,1200,612.0,New,0
+RHYS-1188,2025-01-09,Bengaluru,Classic Black Tee,Website,700,1,700,357.0,New,0
+RHYS-1189,2024-07-02,Hyderabad,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-1190,2024-05-23,Mumbai,Minimal Logo Tee,Website,700,2,1400,714.0,New,0
+RHYS-1191,2024-07-18,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1192,2025-02-15,Bengaluru,Streetwear Hoodie,College Stall,650,2,1300,663.0,New,0
+RHYS-1193,2024-03-14,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-1194,2025-02-13,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1195,2024-03-02,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1196,2024-03-02,Bengaluru,College Pop Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-1197,2025-02-20,Mumbai,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1198,2024-07-11,Hyderabad,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-1199,2024-04-03,Bengaluru,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1200,2024-05-01,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1201,2025-01-22,Bengaluru,Classic Black Tee,Website,700,1,700,357.0,New,0
+RHYS-1202,2024-03-30,Pune,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1203,2024-12-24,Bengaluru,Minimal Logo Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1204,2024-05-19,Hyderabad,Dragon Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-1205,2025-01-13,Bengaluru,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1206,2024-03-04,Hyderabad,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1207,2024-07-11,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1208,2024-03-19,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1209,2024-05-08,Hyderabad,Classic Black Tee,Website,650,2,1300,663.0,New,0
+RHYS-1210,2024-03-25,Pune,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1211,2024-10-13,Hyderabad,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1212,2025-01-08,Mumbai,Dragon Tee,Website,700,2,1400,714.0,Returning,0
+RHYS-1213,2024-05-05,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-1214,2025-01-15,Mumbai,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-1215,2024-10-25,Pune,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1216,2024-11-27,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1217,2024-03-23,Hyderabad,Classic Black Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1218,2025-02-22,Bengaluru,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1219,2024-12-12,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1220,2024-12-27,Pune,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1221,2025-02-24,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1222,2024-12-11,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1223,2024-10-14,Hyderabad,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-1224,2024-06-20,Hyderabad,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1225,2024-08-01,Hyderabad,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1226,2024-12-14,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1227,2024-11-18,Hyderabad,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1228,2025-01-28,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1229,2025-01-11,Mumbai,Classic Black Tee,Website,600,2,1200,612.0,New,0
+RHYS-1230,2025-01-26,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1231,2024-11-18,Bengaluru,Minimal Logo Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1232,2024-04-14,Pune,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1233,2024-08-14,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1234,2024-03-26,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1235,2024-12-15,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1236,2024-07-20,Bengaluru,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-1237,2024-09-28,Mumbai,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1238,2024-07-20,Pune,College Pop Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1239,2024-12-20,Pune,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1240,2024-05-02,Hyderabad,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1241,2024-12-21,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1242,2024-07-05,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,1
+RHYS-1243,2024-12-24,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1244,2024-07-24,Hyderabad,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1245,2024-03-06,Mumbai,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1246,2024-11-02,Bengaluru,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1247,2024-10-14,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1248,2024-03-22,Hyderabad,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-1249,2024-07-14,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1250,2024-08-23,Mumbai,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-1251,2024-07-27,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1252,2024-10-20,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1253,2024-06-28,Hyderabad,Classic Black Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1254,2024-05-24,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1255,2024-06-12,Pune,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1256,2024-10-24,Mumbai,Streetwear Hoodie,College Stall,600,2,1200,612.0,New,0
+RHYS-1257,2024-12-10,Mumbai,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1258,2025-02-01,Pune,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1259,2024-06-10,Pune,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1260,2024-04-20,Bengaluru,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1261,2024-07-07,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1262,2024-06-25,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-1263,2024-04-19,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1264,2024-07-24,Pune,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1265,2024-03-11,Bengaluru,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1266,2024-06-25,Bengaluru,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1267,2024-10-22,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1268,2025-02-07,Mumbai,Streetwear Hoodie,Website,700,1,700,357.0,Returning,0
+RHYS-1269,2025-01-15,Bengaluru,Dragon Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1270,2024-05-13,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1271,2025-02-16,Bengaluru,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1272,2024-12-03,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1273,2025-02-11,Pune,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1274,2024-08-05,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1275,2024-06-19,Mumbai,College Pop Tee,Website,650,2,1300,663.0,New,0
+RHYS-1276,2024-06-21,Pune,Streetwear Hoodie,Website,600,2,1200,612.0,New,0
+RHYS-1277,2024-10-14,Bengaluru,Streetwear Hoodie,College Stall,550,1,550,280.5,Returning,0
+RHYS-1278,2024-04-13,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1279,2025-01-10,Bengaluru,Streetwear Hoodie,College Stall,650,2,1300,663.0,Returning,0
+RHYS-1280,2024-10-31,Pune,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-1281,2024-08-01,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1282,2024-09-25,Mumbai,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1283,2024-05-04,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1284,2024-12-21,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1285,2025-02-17,Pune,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1286,2024-11-03,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1287,2024-07-24,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1288,2024-07-15,Pune,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1289,2025-01-23,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,Returning,1
+RHYS-1290,2024-03-01,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1291,2025-01-13,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1292,2025-02-24,Bengaluru,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-1293,2024-03-01,Bengaluru,Classic Black Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-1294,2024-03-30,Pune,College Pop Tee,College Stall,700,1,700,357.0,New,0
+RHYS-1295,2025-01-24,Pune,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1296,2024-04-10,Hyderabad,Dragon Tee,College Stall,550,2,1100,561.0,Returning,0
+RHYS-1297,2024-06-13,Mumbai,College Pop Tee,Website,550,2,1100,561.0,New,0
+RHYS-1298,2024-10-10,Bengaluru,Minimal Logo Tee,College Stall,550,2,1100,561.0,New,0
+RHYS-1299,2024-06-08,Hyderabad,Dragon Tee,Website,650,2,1300,663.0,New,0
+RHYS-1300,2024-09-14,Pune,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1301,2024-05-05,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1302,2025-01-28,Mumbai,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1303,2024-05-12,Pune,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1304,2024-09-06,Pune,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1305,2025-01-07,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1306,2025-01-04,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1307,2024-08-28,Pune,Dragon Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1308,2025-01-15,Pune,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1309,2025-01-26,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1310,2024-10-31,Pune,Streetwear Hoodie,Website,550,2,1100,561.0,Returning,0
+RHYS-1311,2025-01-04,Bengaluru,Classic Black Tee,College Stall,600,2,1200,612.0,New,1
+RHYS-1312,2024-08-22,Bengaluru,College Pop Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1313,2024-10-26,Hyderabad,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-1314,2025-01-03,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1315,2024-06-18,Pune,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1316,2024-06-14,Bengaluru,College Pop Tee,Website,550,2,1100,561.0,New,0
+RHYS-1317,2024-11-08,Hyderabad,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1318,2024-10-29,Mumbai,Minimal Logo Tee,College Stall,700,1,700,357.0,New,0
+RHYS-1319,2024-04-15,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1320,2024-10-14,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1321,2024-11-11,Mumbai,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1322,2024-08-22,Pune,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1323,2024-10-30,Pune,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1324,2024-05-07,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,1
+RHYS-1325,2024-11-16,Bengaluru,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1326,2025-02-06,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1327,2024-04-29,Pune,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1328,2024-07-10,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1329,2025-01-11,Pune,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1330,2024-03-09,Pune,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1331,2024-08-11,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1332,2025-01-15,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1333,2024-10-18,Mumbai,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-1334,2024-12-13,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1335,2024-07-28,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1336,2025-02-19,Pune,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1337,2024-11-17,Mumbai,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1338,2024-04-05,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1339,2024-11-30,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1340,2025-01-04,Mumbai,Minimal Logo Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1341,2024-11-27,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1342,2024-05-06,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-1343,2024-03-30,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1344,2025-01-08,Mumbai,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-1345,2024-11-16,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1346,2024-09-19,Bengaluru,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-1347,2024-04-14,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1348,2024-12-06,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1349,2024-08-07,Pune,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1350,2024-04-19,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1351,2024-05-10,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1352,2024-10-15,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1353,2024-09-25,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1354,2024-10-24,Mumbai,College Pop Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-1355,2025-01-23,Mumbai,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1356,2025-01-10,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1357,2024-07-07,Pune,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1358,2024-05-06,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1359,2024-06-11,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1360,2024-07-17,Hyderabad,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1361,2024-11-19,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1362,2025-01-10,Hyderabad,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-1363,2024-12-16,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1364,2025-02-17,Bengaluru,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1365,2024-09-05,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1366,2025-01-23,Bengaluru,Streetwear Hoodie,College Stall,550,1,550,280.5,New,0
+RHYS-1367,2024-09-11,Hyderabad,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1368,2024-08-09,Mumbai,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1369,2025-01-30,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1370,2025-01-02,Mumbai,College Pop Tee,Website,700,1,700,357.0,New,0
+RHYS-1371,2025-01-11,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1372,2024-07-31,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1373,2024-10-30,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1374,2024-08-28,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-1375,2024-11-17,Bengaluru,College Pop Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1376,2024-11-20,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1377,2024-07-04,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1378,2024-08-15,Mumbai,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1379,2024-03-05,Mumbai,Minimal Logo Tee,College Stall,550,1,550,280.5,New,1
+RHYS-1380,2024-05-23,Hyderabad,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1381,2024-11-05,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1382,2024-08-24,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1383,2024-12-14,Pune,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1384,2024-03-22,Hyderabad,Classic Black Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1385,2025-02-12,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1386,2025-01-09,Pune,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1387,2025-02-25,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1388,2024-09-13,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1389,2024-11-23,Mumbai,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1390,2025-02-13,Bengaluru,Classic Black Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-1391,2024-11-11,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1392,2024-11-24,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1393,2024-08-15,Mumbai,Dragon Tee,Website,550,2,1100,561.0,New,0
+RHYS-1394,2024-04-28,Hyderabad,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1395,2024-09-23,Hyderabad,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-1396,2024-09-09,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1397,2024-12-23,Mumbai,College Pop Tee,Website,600,2,1200,612.0,New,0
+RHYS-1398,2024-05-29,Pune,Minimal Logo Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-1399,2025-01-15,Mumbai,College Pop Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-1400,2024-07-06,Pune,Classic Black Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1401,2024-11-29,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1402,2024-08-12,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1403,2024-07-26,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1404,2024-12-10,Mumbai,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-1405,2024-11-13,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1406,2024-09-13,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1407,2024-06-18,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1408,2024-08-28,Bengaluru,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1409,2024-07-16,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1410,2024-12-03,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1411,2025-01-10,Pune,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1412,2024-07-12,Bengaluru,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1413,2024-07-03,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1414,2024-11-10,Pune,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1415,2024-07-25,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1416,2024-12-03,Pune,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-1417,2024-10-28,Hyderabad,Classic Black Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1418,2024-03-22,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1419,2024-04-11,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1420,2024-10-06,Hyderabad,Minimal Logo Tee,Website,550,2,1100,561.0,New,0
+RHYS-1421,2024-03-01,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1422,2024-12-20,Hyderabad,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-1423,2024-10-17,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1424,2024-12-06,Bengaluru,Minimal Logo Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1425,2024-08-13,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1426,2024-09-26,Hyderabad,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1427,2024-12-29,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1428,2024-12-01,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1429,2024-11-12,Mumbai,Minimal Logo Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1430,2025-02-01,Bengaluru,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1431,2024-09-20,Hyderabad,College Pop Tee,Website,700,1,700,357.0,New,0
+RHYS-1432,2024-09-06,Mumbai,Classic Black Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1433,2024-05-15,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1434,2024-03-28,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1435,2024-12-14,Bengaluru,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-1436,2024-10-21,Mumbai,Minimal Logo Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-1437,2024-05-02,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1438,2024-08-21,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1439,2024-10-08,Bengaluru,College Pop Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1440,2024-10-10,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1441,2024-07-12,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1442,2024-09-21,Pune,College Pop Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1443,2025-01-19,Bengaluru,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1444,2024-10-15,Bengaluru,Minimal Logo Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-1445,2024-10-11,Pune,Streetwear Hoodie,Website,700,1,700,357.0,New,0
+RHYS-1446,2024-08-23,Pune,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1447,2024-04-27,Mumbai,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1448,2024-06-02,Pune,Streetwear Hoodie,College Stall,550,1,550,280.5,New,0
+RHYS-1449,2024-08-24,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1450,2025-01-26,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1451,2024-10-05,Pune,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1452,2024-03-06,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1453,2024-08-24,Mumbai,Streetwear Hoodie,College Stall,550,1,550,280.5,New,0
+RHYS-1454,2024-07-21,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1455,2024-04-13,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1456,2024-11-02,Hyderabad,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-1457,2024-07-27,Mumbai,Dragon Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1458,2024-11-15,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1459,2024-06-29,Hyderabad,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-1460,2024-04-14,Mumbai,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1461,2024-03-28,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1462,2024-04-03,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1463,2024-08-22,Pune,Classic Black Tee,College Stall,600,1,600,306.0,Returning,1
+RHYS-1464,2024-10-07,Pune,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1465,2024-08-31,Pune,Dragon Tee,College Stall,700,1,700,357.0,New,0
+RHYS-1466,2024-11-06,Bengaluru,Minimal Logo Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-1467,2024-08-29,Mumbai,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1468,2024-03-13,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1469,2024-12-25,Bengaluru,Dragon Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-1470,2024-08-23,Pune,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1471,2024-04-12,Mumbai,College Pop Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1472,2025-02-23,Mumbai,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1473,2024-07-15,Mumbai,Minimal Logo Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1474,2024-12-07,Hyderabad,Dragon Tee,College Stall,650,2,1300,663.0,Returning,0
+RHYS-1475,2024-06-24,Bengaluru,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1476,2024-07-18,Bengaluru,Classic Black Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1477,2024-11-26,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1478,2024-11-29,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1479,2024-10-26,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1480,2024-10-22,Pune,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-1481,2024-07-02,Mumbai,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1482,2024-05-18,Mumbai,Classic Black Tee,Website,550,2,1100,561.0,New,0
+RHYS-1483,2024-07-14,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1484,2025-01-08,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1485,2024-11-17,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1486,2024-12-09,Mumbai,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-1487,2024-08-10,Bengaluru,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-1488,2024-07-24,Pune,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1489,2024-11-12,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1490,2024-04-11,Pune,Dragon Tee,College Stall,550,2,1100,561.0,New,0
+RHYS-1491,2025-01-17,Pune,Dragon Tee,College Stall,600,1,600,306.0,New,1
+RHYS-1492,2025-01-07,Bengaluru,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1493,2024-11-04,Bengaluru,College Pop Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1494,2024-03-09,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1495,2024-11-28,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1496,2024-10-23,Pune,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1497,2024-10-13,Mumbai,Streetwear Hoodie,College Stall,700,1,700,357.0,New,0
+RHYS-1498,2024-11-09,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1499,2024-09-16,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1500,2024-03-10,Hyderabad,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1501,2024-09-18,Bengaluru,College Pop Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-1502,2024-03-04,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,Returning,1
+RHYS-1503,2024-04-02,Bengaluru,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-1504,2024-08-15,Mumbai,Classic Black Tee,Website,600,2,1200,612.0,New,0
+RHYS-1505,2024-09-21,Bengaluru,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1506,2025-02-27,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1507,2024-08-04,Pune,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1508,2024-11-13,Pune,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1509,2024-05-12,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1510,2024-12-17,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1511,2024-11-26,Bengaluru,Dragon Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1512,2024-09-18,Bengaluru,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1513,2024-12-20,Mumbai,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-1514,2024-07-31,Hyderabad,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1515,2024-09-16,Mumbai,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1516,2024-05-04,Pune,Classic Black Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-1517,2024-03-27,Pune,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1518,2024-11-20,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,1
+RHYS-1519,2024-10-30,Bengaluru,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-1520,2024-08-06,Hyderabad,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1521,2024-10-30,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1522,2024-10-19,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1523,2025-01-27,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1524,2024-03-20,Mumbai,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1525,2025-01-21,Bengaluru,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1526,2024-04-12,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1527,2024-09-01,Pune,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-1528,2024-03-17,Mumbai,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-1529,2024-09-20,Hyderabad,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1530,2024-06-01,Bengaluru,Classic Black Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1531,2024-09-27,Mumbai,Streetwear Hoodie,Website,550,2,1100,561.0,Returning,0
+RHYS-1532,2024-12-19,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1533,2025-02-02,Bengaluru,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-1534,2024-07-14,Bengaluru,Minimal Logo Tee,College Stall,700,1,700,357.0,New,0
+RHYS-1535,2024-07-31,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1536,2024-04-28,Bengaluru,Minimal Logo Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1537,2025-02-23,Hyderabad,Minimal Logo Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1538,2024-08-08,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1539,2025-01-05,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1540,2025-02-27,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1541,2025-01-23,Bengaluru,Dragon Tee,College Stall,700,1,700,357.0,New,0
+RHYS-1542,2024-03-10,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1543,2024-03-29,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-1544,2024-08-23,Mumbai,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1545,2024-07-25,Pune,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1546,2025-02-17,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1547,2024-12-16,Mumbai,College Pop Tee,Website,700,1,700,357.0,New,0
+RHYS-1548,2024-08-01,Bengaluru,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1549,2024-06-03,Bengaluru,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-1550,2025-01-10,Pune,College Pop Tee,Website,550,2,1100,561.0,New,0
+RHYS-1551,2024-05-05,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1552,2024-10-22,Bengaluru,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1553,2025-02-02,Pune,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1554,2024-06-11,Pune,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1555,2024-04-27,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,1
+RHYS-1556,2025-01-23,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1557,2024-04-05,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1558,2024-05-28,Pune,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1559,2024-12-15,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1560,2024-09-11,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1561,2024-06-06,Hyderabad,Dragon Tee,Website,700,1,700,357.0,Returning,1
+RHYS-1562,2024-04-13,Mumbai,Minimal Logo Tee,Website,650,2,1300,663.0,New,0
+RHYS-1563,2024-03-19,Pune,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1564,2024-05-25,Mumbai,Classic Black Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-1565,2024-10-04,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1566,2024-10-28,Mumbai,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1567,2024-06-10,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,Returning,1
+RHYS-1568,2025-01-24,Pune,Streetwear Hoodie,Website,700,2,1400,714.0,Returning,0
+RHYS-1569,2024-07-13,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1570,2024-08-20,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1571,2024-08-19,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1572,2024-07-30,Mumbai,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-1573,2024-04-02,Pune,Minimal Logo Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-1574,2024-08-20,Mumbai,Streetwear Hoodie,College Stall,550,1,550,280.5,Returning,0
+RHYS-1575,2024-08-03,Mumbai,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1576,2024-08-16,Pune,College Pop Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1577,2024-08-20,Pune,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1578,2025-01-27,Mumbai,Classic Black Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-1579,2024-03-15,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1580,2024-05-01,Hyderabad,Dragon Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1581,2024-12-25,Pune,Streetwear Hoodie,Website,650,1,650,331.5,Returning,1
+RHYS-1582,2025-02-11,Hyderabad,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1583,2025-02-08,Mumbai,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1584,2024-07-30,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1585,2024-06-13,Hyderabad,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1586,2025-01-08,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1587,2024-12-26,Bengaluru,Classic Black Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1588,2024-04-16,Hyderabad,Streetwear Hoodie,College Stall,550,1,550,280.5,New,0
+RHYS-1589,2024-12-23,Hyderabad,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1590,2025-02-20,Bengaluru,Streetwear Hoodie,College Stall,550,1,550,280.5,Returning,0
+RHYS-1591,2024-11-25,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1592,2024-07-08,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1593,2024-12-29,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1594,2024-06-19,Pune,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-1595,2024-04-24,Bengaluru,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1596,2024-10-02,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1597,2024-03-07,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1598,2024-09-02,Mumbai,College Pop Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-1599,2024-05-06,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1600,2024-11-24,Mumbai,Dragon Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-1601,2024-09-16,Pune,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1602,2024-07-05,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1603,2024-09-20,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1604,2024-05-13,Hyderabad,College Pop Tee,Website,550,1,550,280.5,New,1
+RHYS-1605,2025-02-23,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1606,2024-11-06,Pune,Minimal Logo Tee,Website,650,2,1300,663.0,New,0
+RHYS-1607,2024-04-29,Bengaluru,Streetwear Hoodie,Website,600,2,1200,612.0,New,0
+RHYS-1608,2024-11-16,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1609,2024-12-05,Hyderabad,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1610,2024-07-14,Mumbai,College Pop Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1611,2024-10-17,Bengaluru,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1612,2024-10-05,Bengaluru,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-1613,2024-11-16,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1614,2024-03-02,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1615,2024-08-26,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1616,2025-01-15,Bengaluru,Dragon Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-1617,2025-01-09,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1618,2024-11-08,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1619,2024-04-01,Hyderabad,College Pop Tee,Website,550,1,550,280.5,Returning,1
+RHYS-1620,2024-11-20,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1621,2024-12-24,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1622,2024-10-10,Mumbai,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1623,2024-11-04,Hyderabad,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-1624,2024-11-19,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,1
+RHYS-1625,2024-09-05,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1626,2024-09-14,Pune,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1627,2024-03-20,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1628,2024-12-30,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1629,2024-09-27,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1630,2024-12-27,Mumbai,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1631,2024-11-11,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1632,2024-08-28,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1633,2024-05-04,Pune,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1634,2024-07-10,Bengaluru,Streetwear Hoodie,Website,550,2,1100,561.0,Returning,0
+RHYS-1635,2024-06-07,Mumbai,Dragon Tee,Website,550,2,1100,561.0,New,0
+RHYS-1636,2025-02-12,Pune,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1637,2024-12-19,Hyderabad,Minimal Logo Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1638,2024-07-12,Mumbai,Minimal Logo Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1639,2024-12-31,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1640,2024-12-27,Hyderabad,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1641,2024-06-29,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-1642,2024-05-25,Pune,College Pop Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1643,2024-07-28,Hyderabad,Dragon Tee,College Stall,700,1,700,357.0,New,0
+RHYS-1644,2024-07-21,Mumbai,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1645,2025-02-28,Mumbai,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1646,2024-12-31,Pune,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1647,2024-06-02,Pune,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1648,2024-09-11,Pune,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1649,2024-11-25,Bengaluru,Dragon Tee,College Stall,700,1,700,357.0,New,0
+RHYS-1650,2024-05-07,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1651,2025-01-28,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1652,2024-03-01,Pune,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1653,2024-05-28,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1654,2024-11-02,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-1655,2024-06-28,Mumbai,Dragon Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-1656,2024-03-04,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1657,2024-04-13,Pune,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1658,2024-11-17,Pune,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1659,2024-04-07,Mumbai,College Pop Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1660,2024-05-25,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1661,2024-11-04,Bengaluru,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1662,2024-12-19,Pune,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1663,2024-03-02,Hyderabad,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1664,2025-01-16,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1665,2024-12-12,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1666,2024-07-20,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1667,2024-03-02,Hyderabad,Streetwear Hoodie,College Stall,650,1,650,331.5,Returning,0
+RHYS-1668,2024-06-24,Hyderabad,Streetwear Hoodie,College Stall,700,1,700,357.0,Returning,0
+RHYS-1669,2024-08-05,Pune,Streetwear Hoodie,College Stall,650,2,1300,663.0,Returning,0
+RHYS-1670,2025-02-15,Mumbai,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1671,2024-09-04,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1672,2024-12-22,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1673,2024-03-27,Mumbai,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1674,2024-07-17,Bengaluru,Minimal Logo Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1675,2024-11-20,Hyderabad,Dragon Tee,Website,550,2,1100,561.0,New,0
+RHYS-1676,2024-10-30,Hyderabad,Dragon Tee,Website,550,2,1100,561.0,New,0
+RHYS-1677,2024-08-22,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1678,2024-12-20,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1679,2024-12-28,Bengaluru,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1680,2024-04-26,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1681,2024-09-10,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1682,2024-04-25,Bengaluru,Streetwear Hoodie,College Stall,700,1,700,357.0,New,0
+RHYS-1683,2024-08-16,Hyderabad,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1684,2025-01-25,Mumbai,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-1685,2024-07-31,Mumbai,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1686,2025-01-22,Pune,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1687,2024-03-23,Mumbai,Minimal Logo Tee,Website,550,2,1100,561.0,New,0
+RHYS-1688,2025-01-02,Pune,Dragon Tee,Website,600,1,600,306.0,New,1
+RHYS-1689,2024-05-28,Mumbai,College Pop Tee,Website,700,1,700,357.0,New,0
+RHYS-1690,2024-06-04,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,1
+RHYS-1691,2024-11-25,Pune,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1692,2024-10-28,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1693,2025-02-17,Bengaluru,Dragon Tee,Website,550,2,1100,561.0,New,1
+RHYS-1694,2024-08-14,Pune,Classic Black Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-1695,2024-03-14,Mumbai,Streetwear Hoodie,College Stall,650,1,650,331.5,Returning,0
+RHYS-1696,2025-01-25,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1697,2024-08-23,Hyderabad,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-1698,2024-05-24,Mumbai,College Pop Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1699,2024-07-10,Hyderabad,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1700,2024-07-13,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1701,2024-06-30,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1702,2025-02-09,Mumbai,Streetwear Hoodie,College Stall,550,1,550,280.5,Returning,0
+RHYS-1703,2024-09-04,Bengaluru,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-1704,2024-08-31,Pune,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-1705,2024-05-14,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-1706,2024-12-01,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1707,2024-06-27,Pune,Streetwear Hoodie,Website,700,1,700,357.0,Returning,0
+RHYS-1708,2024-09-18,Mumbai,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1709,2024-04-24,Pune,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1710,2024-11-21,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1711,2025-01-03,Pune,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1712,2024-07-03,Mumbai,Dragon Tee,Website,700,2,1400,714.0,New,0
+RHYS-1713,2024-04-02,Hyderabad,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1714,2024-06-08,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1715,2024-12-30,Bengaluru,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1716,2025-02-04,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1717,2024-03-30,Pune,Dragon Tee,Website,600,1,600,306.0,New,1
+RHYS-1718,2024-06-05,Mumbai,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1719,2024-11-01,Pune,Classic Black Tee,Website,700,1,700,357.0,New,0
+RHYS-1720,2024-08-05,Pune,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1721,2025-02-03,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1722,2024-03-14,Pune,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-1723,2024-03-27,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1724,2024-12-22,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1725,2024-05-30,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1726,2024-12-15,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1727,2024-11-09,Mumbai,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1728,2025-01-07,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1729,2025-01-06,Mumbai,Dragon Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-1730,2024-04-27,Hyderabad,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1731,2025-01-10,Bengaluru,Classic Black Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-1732,2024-03-23,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1733,2024-12-22,Hyderabad,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1734,2024-11-09,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1735,2024-12-02,Hyderabad,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1736,2024-03-15,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1737,2024-10-27,Pune,College Pop Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1738,2024-05-14,Mumbai,Dragon Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1739,2024-08-11,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1740,2024-03-28,Bengaluru,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1741,2024-08-30,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1742,2024-06-12,Hyderabad,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1743,2024-04-18,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1744,2024-05-08,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1745,2024-06-05,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1746,2024-07-01,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1747,2024-05-16,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1748,2024-10-21,Hyderabad,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-1749,2024-11-30,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1750,2024-12-16,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,New,1
+RHYS-1751,2024-09-11,Pune,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1752,2024-09-01,Mumbai,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1753,2024-11-22,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1754,2024-07-27,Pune,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1755,2024-11-16,Pune,Minimal Logo Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1756,2024-08-06,Pune,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1757,2024-04-24,Hyderabad,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1758,2024-07-09,Pune,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1759,2024-09-26,Mumbai,College Pop Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1760,2024-04-15,Mumbai,Classic Black Tee,College Stall,550,2,1100,561.0,Returning,0
+RHYS-1761,2024-06-01,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1762,2024-07-10,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1763,2025-02-11,Mumbai,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1764,2025-01-25,Pune,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1765,2025-01-30,Bengaluru,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1766,2024-03-12,Pune,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1767,2025-02-05,Pune,Classic Black Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-1768,2025-02-27,Pune,Streetwear Hoodie,Website,600,2,1200,612.0,Returning,0
+RHYS-1769,2024-05-02,Mumbai,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1770,2025-01-01,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1771,2025-01-14,Pune,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1772,2024-03-02,Hyderabad,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1773,2024-03-07,Bengaluru,Dragon Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-1774,2025-01-04,Mumbai,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-1775,2024-05-02,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1776,2024-09-08,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1777,2024-04-30,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1778,2025-01-04,Pune,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1779,2024-08-20,Pune,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-1780,2024-07-14,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1781,2024-11-11,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-1782,2024-11-05,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1783,2025-02-27,Mumbai,College Pop Tee,College Stall,700,1,700,357.0,New,0
+RHYS-1784,2024-08-09,Pune,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1785,2024-06-16,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1786,2024-12-24,Bengaluru,College Pop Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1787,2024-10-06,Hyderabad,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1788,2024-11-02,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1789,2024-11-10,Pune,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1790,2025-01-05,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1791,2024-11-05,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1792,2024-03-30,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1793,2025-02-01,Pune,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1794,2024-09-18,Hyderabad,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1795,2024-03-28,Mumbai,Classic Black Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-1796,2024-10-03,Mumbai,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1797,2024-09-07,Bengaluru,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1798,2024-05-17,Hyderabad,Streetwear Hoodie,College Stall,550,1,550,280.5,New,0
+RHYS-1799,2024-06-22,Mumbai,Dragon Tee,Website,700,2,1400,714.0,New,0
+RHYS-1800,2024-09-25,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1801,2025-01-01,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1802,2024-04-15,Pune,Classic Black Tee,Website,700,1,700,357.0,New,0
+RHYS-1803,2024-07-03,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1804,2024-04-22,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1805,2024-07-06,Mumbai,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1806,2024-07-24,Mumbai,College Pop Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1807,2024-10-23,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1808,2025-02-08,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1809,2024-11-07,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1810,2024-04-03,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1811,2024-04-24,Pune,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1812,2025-02-16,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1813,2024-06-11,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1814,2024-03-03,Pune,Dragon Tee,College Stall,650,2,1300,663.0,Returning,0
+RHYS-1815,2025-01-25,Pune,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-1816,2024-11-18,Mumbai,Streetwear Hoodie,College Stall,550,1,550,280.5,Returning,0
+RHYS-1817,2024-03-29,Bengaluru,Dragon Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-1818,2024-06-20,Mumbai,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1819,2025-02-02,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1820,2024-10-30,Bengaluru,Streetwear Hoodie,Website,700,1,700,357.0,Returning,0
+RHYS-1821,2024-09-25,Pune,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1822,2024-11-10,Pune,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1823,2024-10-20,Mumbai,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-1824,2024-08-08,Pune,Minimal Logo Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1825,2024-05-26,Hyderabad,Classic Black Tee,Website,700,1,700,357.0,New,0
+RHYS-1826,2024-03-28,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-1827,2024-04-07,Bengaluru,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-1828,2024-10-07,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1829,2025-01-24,Mumbai,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1830,2024-07-03,Mumbai,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1831,2024-11-29,Mumbai,Classic Black Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1832,2024-07-28,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1833,2024-09-28,Hyderabad,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1834,2024-09-27,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1835,2024-07-19,Pune,Streetwear Hoodie,College Stall,700,1,700,357.0,New,0
+RHYS-1836,2024-05-04,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1837,2024-10-02,Mumbai,Dragon Tee,College Stall,550,2,1100,561.0,New,0
+RHYS-1838,2025-01-16,Mumbai,Classic Black Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1839,2024-10-05,Pune,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-1840,2024-11-19,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1841,2025-02-10,Bengaluru,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1842,2025-01-02,Hyderabad,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-1843,2024-07-26,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1844,2024-07-23,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1845,2024-03-31,Pune,Dragon Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1846,2025-01-27,Bengaluru,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1847,2024-08-13,Pune,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1848,2024-05-23,Pune,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1849,2024-06-01,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1850,2024-07-05,Mumbai,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1851,2024-03-07,Mumbai,Streetwear Hoodie,Website,550,2,1100,561.0,New,0
+RHYS-1852,2024-08-22,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1853,2024-10-20,Pune,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1854,2025-01-20,Bengaluru,Dragon Tee,Website,650,2,1300,663.0,New,0
+RHYS-1855,2024-10-01,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-1856,2024-12-13,Pune,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1857,2024-04-11,Mumbai,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1858,2024-06-25,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1859,2024-05-13,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1860,2024-08-13,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1861,2024-06-15,Bengaluru,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1862,2024-07-17,Pune,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-1863,2024-12-21,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1864,2024-10-23,Mumbai,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-1865,2024-04-13,Hyderabad,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-1866,2024-10-15,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-1867,2024-10-05,Pune,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1868,2025-02-25,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-1869,2024-12-30,Pune,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1870,2024-09-06,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1871,2024-12-17,Bengaluru,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1872,2024-05-26,Bengaluru,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1873,2024-11-21,Mumbai,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1874,2024-12-27,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1875,2024-11-30,Pune,College Pop Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-1876,2024-10-30,Bengaluru,Streetwear Hoodie,Website,600,2,1200,612.0,New,0
+RHYS-1877,2024-08-08,Mumbai,Dragon Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1878,2024-11-02,Mumbai,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-1879,2024-06-30,Hyderabad,Streetwear Hoodie,College Stall,550,1,550,280.5,New,0
+RHYS-1880,2024-11-21,Hyderabad,Streetwear Hoodie,Website,700,1,700,357.0,New,0
+RHYS-1881,2024-04-27,Mumbai,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1882,2024-08-12,Hyderabad,Classic Black Tee,Website,550,2,1100,561.0,New,0
+RHYS-1883,2024-10-21,Bengaluru,Streetwear Hoodie,Website,650,2,1300,663.0,New,0
+RHYS-1884,2024-06-07,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1885,2024-12-24,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1886,2025-01-10,Bengaluru,Dragon Tee,Website,550,2,1100,561.0,New,0
+RHYS-1887,2024-09-09,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1888,2024-10-09,Pune,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1889,2024-09-10,Bengaluru,College Pop Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1890,2024-05-23,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1891,2024-12-04,Pune,Minimal Logo Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-1892,2024-05-26,Hyderabad,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-1893,2024-05-24,Hyderabad,Classic Black Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1894,2025-02-06,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1895,2024-06-22,Hyderabad,Minimal Logo Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-1896,2024-11-17,Mumbai,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1897,2024-06-08,Bengaluru,Streetwear Hoodie,Website,700,1,700,357.0,New,0
+RHYS-1898,2024-06-22,Pune,Dragon Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-1899,2024-11-29,Mumbai,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1900,2024-12-17,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1901,2024-05-31,Mumbai,Dragon Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1902,2024-03-12,Hyderabad,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-1903,2025-01-30,Mumbai,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1904,2024-12-20,Hyderabad,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1905,2024-07-24,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1906,2025-02-18,Hyderabad,College Pop Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1907,2024-08-26,Hyderabad,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1908,2024-08-11,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1909,2025-01-11,Bengaluru,College Pop Tee,Website,700,1,700,357.0,New,0
+RHYS-1910,2024-12-16,Pune,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1911,2025-01-18,Bengaluru,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1912,2024-07-31,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1913,2024-08-02,Bengaluru,Classic Black Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-1914,2024-11-17,Pune,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1915,2024-12-18,Hyderabad,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1916,2024-10-07,Pune,College Pop Tee,College Stall,550,1,550,280.5,Returning,1
+RHYS-1917,2024-08-17,Mumbai,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1918,2024-04-11,Hyderabad,Minimal Logo Tee,College Stall,700,1,700,357.0,New,0
+RHYS-1919,2025-02-11,Mumbai,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1920,2025-02-14,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-1921,2024-08-16,Bengaluru,Minimal Logo Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1922,2025-01-17,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1923,2024-05-18,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1924,2024-07-26,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1925,2024-08-19,Mumbai,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1926,2024-07-29,Mumbai,Dragon Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1927,2024-10-19,Bengaluru,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1928,2025-01-14,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1929,2024-03-11,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1930,2024-06-07,Mumbai,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-1931,2025-01-29,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-1932,2024-12-04,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,Returning,1
+RHYS-1933,2024-06-02,Mumbai,Minimal Logo Tee,Website,550,2,1100,561.0,Returning,1
+RHYS-1934,2024-05-04,Bengaluru,Dragon Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-1935,2024-03-12,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1936,2024-10-15,Pune,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1937,2024-06-21,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1938,2024-03-28,Bengaluru,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1939,2024-08-04,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1940,2024-11-14,Hyderabad,Dragon Tee,College Stall,600,1,600,306.0,New,1
+RHYS-1941,2024-03-18,Hyderabad,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-1942,2025-01-24,Mumbai,Classic Black Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1943,2024-12-26,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-1944,2024-07-10,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-1945,2024-03-22,Bengaluru,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1946,2024-07-23,Bengaluru,College Pop Tee,College Stall,550,2,1100,561.0,Returning,0
+RHYS-1947,2024-05-03,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1948,2024-05-16,Bengaluru,Classic Black Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1949,2024-10-14,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1950,2024-11-22,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1951,2024-07-12,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1952,2024-11-13,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-1953,2025-01-26,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1954,2025-01-03,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1955,2024-12-19,Bengaluru,Dragon Tee,Website,650,2,1300,663.0,New,0
+RHYS-1956,2025-01-19,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-1957,2024-12-31,Hyderabad,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1958,2024-09-27,Pune,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1959,2024-07-22,Bengaluru,Dragon Tee,College Stall,550,2,1100,561.0,New,0
+RHYS-1960,2024-10-09,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1961,2024-06-11,Mumbai,Dragon Tee,Website,650,2,1300,663.0,New,0
+RHYS-1962,2024-12-06,Bengaluru,Classic Black Tee,Website,600,2,1200,612.0,New,0
+RHYS-1963,2024-08-24,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1964,2025-02-20,Mumbai,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1965,2024-12-14,Hyderabad,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-1966,2025-02-11,Pune,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-1967,2024-08-02,Pune,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-1968,2024-11-09,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,1
+RHYS-1969,2024-06-29,Mumbai,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1970,2024-07-09,Pune,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1971,2024-06-07,Mumbai,Classic Black Tee,Website,700,2,1400,714.0,New,0
+RHYS-1972,2024-08-25,Bengaluru,Dragon Tee,Website,700,2,1400,714.0,New,0
+RHYS-1973,2024-09-16,Bengaluru,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,1
+RHYS-1974,2024-08-21,Pune,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-1975,2024-04-02,Hyderabad,Minimal Logo Tee,Website,700,1,700,357.0,Returning,0
+RHYS-1976,2024-07-05,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-1977,2024-05-07,Bengaluru,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1978,2024-09-08,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-1979,2024-05-24,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1980,2024-09-11,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1981,2024-08-11,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-1982,2024-07-16,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1983,2025-02-11,Bengaluru,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1984,2024-07-04,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1985,2025-01-30,Mumbai,College Pop Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-1986,2024-09-02,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-1987,2024-06-21,Hyderabad,Streetwear Hoodie,Website,700,1,700,357.0,New,0
+RHYS-1988,2024-12-17,Pune,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1989,2024-05-20,Pune,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1990,2024-09-10,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-1991,2024-08-07,Pune,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-1992,2025-01-28,Pune,College Pop Tee,Website,650,1,650,331.5,New,1
+RHYS-1993,2024-11-01,Mumbai,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-1994,2024-03-13,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-1995,2024-12-14,Hyderabad,Dragon Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-1996,2024-06-27,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-1997,2024-03-11,Bengaluru,College Pop Tee,College Stall,650,1,650,331.5,New,0
+RHYS-1998,2024-05-05,Pune,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-1999,2024-05-24,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2000,2024-12-23,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2001,2024-09-06,Hyderabad,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2002,2024-05-02,Mumbai,Dragon Tee,Website,650,2,1300,663.0,New,0
+RHYS-2003,2025-02-17,Pune,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2004,2024-12-29,Mumbai,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2005,2024-04-05,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2006,2025-02-17,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2007,2024-11-24,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2008,2025-01-02,Hyderabad,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,1
+RHYS-2009,2024-06-08,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2010,2025-02-26,Mumbai,Dragon Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-2011,2024-11-10,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2012,2024-06-06,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2013,2024-07-21,Hyderabad,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2014,2024-03-26,Mumbai,Dragon Tee,College Stall,700,2,1400,714.0,New,0
+RHYS-2015,2024-12-21,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2016,2024-09-15,Mumbai,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2017,2024-12-27,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2018,2024-10-10,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2019,2025-01-24,Bengaluru,Dragon Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2020,2024-11-20,Bengaluru,Minimal Logo Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2021,2025-02-20,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2022,2024-11-18,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-2023,2024-04-26,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2024,2024-07-25,Mumbai,College Pop Tee,College Stall,650,1,650,331.5,Returning,1
+RHYS-2025,2024-08-26,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2026,2024-06-03,Pune,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2027,2024-11-23,Bengaluru,Dragon Tee,College Stall,700,2,1400,714.0,New,0
+RHYS-2028,2024-05-23,Pune,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2029,2024-07-14,Mumbai,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2030,2024-06-10,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2031,2024-05-23,Bengaluru,Dragon Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2032,2024-08-26,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2033,2024-08-08,Pune,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2034,2024-06-28,Hyderabad,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2035,2024-05-03,Pune,Minimal Logo Tee,Website,600,2,1200,612.0,New,1
+RHYS-2036,2024-12-04,Pune,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2037,2024-11-05,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2038,2024-12-04,Bengaluru,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2039,2024-12-11,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2040,2024-12-10,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,1
+RHYS-2041,2025-01-01,Pune,Streetwear Hoodie,College Stall,550,1,550,280.5,Returning,0
+RHYS-2042,2024-05-20,Bengaluru,College Pop Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2043,2024-06-10,Mumbai,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2044,2024-10-11,Mumbai,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-2045,2025-02-15,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2046,2024-12-24,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2047,2024-10-21,Mumbai,Streetwear Hoodie,College Stall,550,1,550,280.5,New,0
+RHYS-2048,2024-07-20,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2049,2024-12-14,Mumbai,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2050,2024-05-30,Bengaluru,Classic Black Tee,Website,600,2,1200,612.0,New,0
+RHYS-2051,2024-12-08,Hyderabad,Dragon Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-2052,2024-09-05,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,1
+RHYS-2053,2025-01-27,Mumbai,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2054,2025-02-03,Pune,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2055,2024-04-20,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2056,2025-01-12,Hyderabad,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2057,2024-10-05,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2058,2024-11-26,Mumbai,Classic Black Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2059,2025-01-04,Mumbai,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2060,2025-01-10,Bengaluru,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2061,2024-10-02,Pune,College Pop Tee,Website,700,1,700,357.0,New,1
+RHYS-2062,2024-04-08,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2063,2024-07-27,Pune,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2064,2024-06-10,Bengaluru,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2065,2025-01-28,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2066,2024-06-16,Bengaluru,Classic Black Tee,College Stall,550,1,550,280.5,New,1
+RHYS-2067,2024-03-19,Pune,Classic Black Tee,Website,700,1,700,357.0,New,0
+RHYS-2068,2024-10-29,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2069,2025-01-15,Hyderabad,Minimal Logo Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2070,2024-03-16,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2071,2024-09-14,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2072,2024-10-10,Hyderabad,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2073,2024-06-21,Pune,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2074,2024-07-12,Mumbai,Classic Black Tee,Website,650,2,1300,663.0,New,0
+RHYS-2075,2024-03-22,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2076,2024-08-16,Pune,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2077,2024-10-28,Pune,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2078,2025-01-23,Pune,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2079,2024-06-08,Hyderabad,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2080,2024-12-10,Bengaluru,College Pop Tee,Website,700,2,1400,714.0,New,0
+RHYS-2081,2024-07-06,Pune,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-2082,2024-06-07,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2083,2024-12-28,Mumbai,Streetwear Hoodie,Website,700,1,700,357.0,New,0
+RHYS-2084,2024-11-08,Mumbai,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2085,2024-03-21,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-2086,2024-12-24,Bengaluru,Dragon Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2087,2024-11-22,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2088,2024-09-15,Mumbai,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2089,2024-11-11,Pune,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2090,2024-07-25,Bengaluru,Streetwear Hoodie,College Stall,550,1,550,280.5,Returning,0
+RHYS-2091,2024-03-17,Hyderabad,Dragon Tee,Website,700,2,1400,714.0,Returning,0
+RHYS-2092,2024-12-05,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2093,2024-04-11,Mumbai,Classic Black Tee,College Stall,700,1,700,357.0,New,0
+RHYS-2094,2025-01-15,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2095,2024-12-07,Mumbai,Dragon Tee,Website,550,2,1100,561.0,New,0
+RHYS-2096,2025-01-23,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2097,2025-02-02,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2098,2024-07-06,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2099,2024-05-21,Bengaluru,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2100,2024-10-23,Mumbai,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-2101,2024-08-25,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2102,2024-06-23,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2103,2024-06-03,Mumbai,Dragon Tee,Website,700,2,1400,714.0,New,0
+RHYS-2104,2025-01-21,Bengaluru,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2105,2024-05-28,Bengaluru,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2106,2024-06-26,Bengaluru,Classic Black Tee,Website,700,2,1400,714.0,New,0
+RHYS-2107,2025-02-05,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2108,2024-04-15,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2109,2024-11-12,Mumbai,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,1
+RHYS-2110,2024-05-24,Bengaluru,College Pop Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2111,2025-02-12,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2112,2024-07-11,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-2113,2024-06-11,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2114,2024-07-12,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2115,2024-10-27,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2116,2024-09-06,Hyderabad,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2117,2024-12-08,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,1
+RHYS-2118,2024-06-24,Hyderabad,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-2119,2024-05-05,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,1
+RHYS-2120,2025-02-04,Bengaluru,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-2121,2024-04-24,Mumbai,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2122,2025-01-18,Pune,Classic Black Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2123,2024-04-05,Hyderabad,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2124,2025-01-19,Mumbai,Dragon Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-2125,2024-06-01,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2126,2024-08-22,Bengaluru,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-2127,2024-06-25,Pune,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2128,2025-01-15,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2129,2024-06-12,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,1
+RHYS-2130,2025-02-22,Pune,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2131,2024-08-05,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2132,2025-01-30,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2133,2024-05-10,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2134,2024-05-08,Mumbai,Minimal Logo Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2135,2024-03-12,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2136,2024-10-12,Hyderabad,College Pop Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2137,2025-02-07,Mumbai,Streetwear Hoodie,Website,650,2,1300,663.0,New,0
+RHYS-2138,2025-01-29,Hyderabad,College Pop Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-2139,2024-04-02,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2140,2024-04-06,Bengaluru,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2141,2024-04-02,Pune,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2142,2024-04-19,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,1
+RHYS-2143,2025-01-06,Pune,College Pop Tee,Website,600,2,1200,612.0,New,0
+RHYS-2144,2024-04-12,Hyderabad,Dragon Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-2145,2024-12-30,Hyderabad,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2146,2024-09-25,Mumbai,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2147,2024-08-19,Hyderabad,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-2148,2024-09-04,Hyderabad,Minimal Logo Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-2149,2024-05-27,Hyderabad,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2150,2024-05-11,Pune,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2151,2024-10-31,Bengaluru,College Pop Tee,Website,600,2,1200,612.0,New,0
+RHYS-2152,2024-06-30,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,1
+RHYS-2153,2024-08-26,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2154,2024-04-27,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,1
+RHYS-2155,2024-10-09,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2156,2024-03-17,Pune,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2157,2024-07-25,Bengaluru,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2158,2024-10-06,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2159,2024-05-29,Bengaluru,Minimal Logo Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2160,2024-09-30,Mumbai,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2161,2024-10-24,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2162,2024-06-03,Mumbai,Dragon Tee,Website,700,2,1400,714.0,New,0
+RHYS-2163,2024-11-25,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2164,2024-05-22,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2165,2024-05-03,Pune,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2166,2025-01-12,Bengaluru,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2167,2024-09-22,Pune,Dragon Tee,Website,550,2,1100,561.0,New,1
+RHYS-2168,2024-05-10,Pune,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2169,2024-09-22,Bengaluru,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2170,2024-09-13,Bengaluru,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-2171,2025-02-28,Pune,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-2172,2024-07-11,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2173,2024-12-22,Hyderabad,College Pop Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-2174,2024-06-02,Pune,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2175,2024-06-26,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2176,2024-04-13,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2177,2024-12-07,Mumbai,Classic Black Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2178,2024-09-28,Hyderabad,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-2179,2024-04-09,Mumbai,Classic Black Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2180,2025-02-11,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2181,2024-09-05,Hyderabad,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2182,2024-04-22,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2183,2024-06-18,Hyderabad,Dragon Tee,College Stall,550,2,1100,561.0,Returning,0
+RHYS-2184,2024-08-13,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2185,2024-09-06,Bengaluru,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2186,2024-05-18,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2187,2024-08-24,Mumbai,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2188,2024-04-11,Mumbai,Classic Black Tee,Website,650,2,1300,663.0,New,0
+RHYS-2189,2024-11-05,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2190,2024-09-13,Bengaluru,College Pop Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2191,2024-05-02,Pune,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-2192,2024-12-22,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2193,2024-05-29,Pune,College Pop Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2194,2024-04-28,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2195,2024-10-15,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2196,2024-04-24,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2197,2024-06-28,Hyderabad,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2198,2024-11-12,Pune,Streetwear Hoodie,Website,600,2,1200,612.0,Returning,0
+RHYS-2199,2024-10-20,Bengaluru,College Pop Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2200,2024-10-20,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2201,2024-07-09,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2202,2024-03-14,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2203,2024-06-16,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2204,2024-04-23,Mumbai,Streetwear Hoodie,College Stall,600,2,1200,612.0,Returning,0
+RHYS-2205,2024-06-30,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2206,2025-02-15,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2207,2024-12-11,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2208,2024-03-31,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2209,2024-10-16,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2210,2024-03-01,Hyderabad,Minimal Logo Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2211,2024-05-18,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2212,2024-08-26,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2213,2024-10-26,Mumbai,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2214,2024-10-11,Pune,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2215,2024-07-01,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2216,2025-01-15,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2217,2024-11-09,Mumbai,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2218,2024-07-27,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2219,2024-12-19,Bengaluru,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2220,2024-05-19,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2221,2024-06-09,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2222,2025-02-06,Hyderabad,Dragon Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-2223,2024-04-01,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2224,2024-05-05,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2225,2024-04-11,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2226,2024-08-03,Pune,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2227,2024-12-08,Pune,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2228,2024-03-31,Hyderabad,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2229,2024-11-21,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2230,2025-02-19,Mumbai,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2231,2024-04-01,Pune,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2232,2024-05-19,Mumbai,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2233,2024-06-30,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2234,2025-01-11,Hyderabad,Dragon Tee,Website,650,2,1300,663.0,New,0
+RHYS-2235,2025-02-09,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2236,2024-05-20,Pune,Streetwear Hoodie,Website,700,2,1400,714.0,Returning,0
+RHYS-2237,2024-08-16,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2238,2024-03-17,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2239,2024-09-06,Bengaluru,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-2240,2024-03-29,Hyderabad,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2241,2024-04-17,Mumbai,College Pop Tee,Website,700,1,700,357.0,New,0
+RHYS-2242,2024-07-12,Pune,Dragon Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-2243,2024-06-24,Hyderabad,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2244,2024-09-22,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2245,2024-12-14,Hyderabad,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2246,2025-01-08,Mumbai,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2247,2024-10-23,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2248,2024-11-29,Hyderabad,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2249,2024-03-26,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2250,2024-05-25,Bengaluru,Classic Black Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-2251,2024-05-18,Pune,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2252,2025-02-08,Bengaluru,Classic Black Tee,College Stall,650,2,1300,663.0,Returning,0
+RHYS-2253,2024-12-13,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2254,2024-08-20,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2255,2024-12-05,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2256,2024-04-16,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2257,2024-07-14,Hyderabad,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2258,2024-03-16,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-2259,2024-05-13,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2260,2024-08-02,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2261,2024-11-11,Bengaluru,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2262,2025-01-10,Pune,Dragon Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-2263,2024-06-19,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2264,2024-08-20,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2265,2024-05-19,Bengaluru,Minimal Logo Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2266,2024-11-16,Mumbai,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2267,2024-07-12,Hyderabad,Classic Black Tee,Website,650,2,1300,663.0,New,0
+RHYS-2268,2024-12-03,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2269,2025-01-16,Mumbai,Dragon Tee,Website,700,1,700,357.0,New,1
+RHYS-2270,2024-12-15,Pune,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-2271,2024-05-31,Pune,Minimal Logo Tee,Website,700,1,700,357.0,New,1
+RHYS-2272,2024-08-21,Bengaluru,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2273,2024-06-04,Pune,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2274,2025-02-14,Pune,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2275,2024-05-07,Hyderabad,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2276,2024-08-09,Bengaluru,Minimal Logo Tee,Website,650,2,1300,663.0,New,0
+RHYS-2277,2024-05-15,Mumbai,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2278,2024-10-15,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2279,2025-01-13,Pune,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2280,2024-11-21,Bengaluru,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2281,2024-11-26,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2282,2024-12-22,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2283,2024-07-12,Hyderabad,College Pop Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2284,2024-06-29,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2285,2024-07-21,Mumbai,Dragon Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-2286,2024-03-04,Bengaluru,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2287,2024-04-01,Mumbai,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2288,2024-11-12,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2289,2024-09-12,Pune,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-2290,2024-05-05,Bengaluru,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2291,2024-07-11,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,1
+RHYS-2292,2024-04-12,Pune,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2293,2024-11-28,Mumbai,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2294,2024-12-17,Hyderabad,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2295,2024-11-07,Mumbai,College Pop Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-2296,2024-09-23,Bengaluru,Minimal Logo Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2297,2024-12-12,Bengaluru,Dragon Tee,College Stall,650,2,1300,663.0,Returning,0
+RHYS-2298,2024-10-07,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2299,2024-07-15,Bengaluru,Minimal Logo Tee,Website,700,1,700,357.0,New,1
+RHYS-2300,2024-03-14,Bengaluru,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2301,2024-11-07,Pune,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-2302,2024-11-28,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2303,2024-07-12,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2304,2025-01-05,Pune,Streetwear Hoodie,College Stall,650,2,1300,663.0,Returning,0
+RHYS-2305,2024-05-22,Hyderabad,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-2306,2024-07-27,Bengaluru,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2307,2024-04-27,Hyderabad,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-2308,2024-06-01,Mumbai,Streetwear Hoodie,Website,700,2,1400,714.0,Returning,0
+RHYS-2309,2024-05-08,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2310,2024-06-10,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2311,2024-04-20,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2312,2024-09-23,Bengaluru,College Pop Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2313,2024-11-08,Bengaluru,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2314,2024-08-08,Mumbai,Classic Black Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2315,2024-03-26,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2316,2024-11-18,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2317,2025-01-04,Pune,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2318,2024-08-30,Pune,Dragon Tee,College Stall,600,1,600,306.0,New,1
+RHYS-2319,2024-08-09,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2320,2024-05-07,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2321,2024-12-23,Hyderabad,Streetwear Hoodie,Website,700,1,700,357.0,Returning,0
+RHYS-2322,2024-03-06,Hyderabad,Dragon Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-2323,2024-09-27,Hyderabad,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-2324,2024-12-05,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2325,2024-05-25,Bengaluru,Streetwear Hoodie,Website,600,2,1200,612.0,Returning,0
+RHYS-2326,2024-12-13,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2327,2024-05-06,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2328,2024-12-08,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2329,2024-09-27,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2330,2024-05-11,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2331,2024-06-14,Bengaluru,Streetwear Hoodie,Website,550,2,1100,561.0,Returning,0
+RHYS-2332,2024-10-28,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2333,2024-06-22,Mumbai,College Pop Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-2334,2025-02-09,Mumbai,College Pop Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2335,2024-04-19,Mumbai,Dragon Tee,College Stall,550,2,1100,561.0,Returning,0
+RHYS-2336,2024-12-15,Bengaluru,Streetwear Hoodie,College Stall,600,2,1200,612.0,Returning,0
+RHYS-2337,2024-04-11,Pune,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2338,2025-02-13,Hyderabad,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2339,2024-10-27,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2340,2024-12-27,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2341,2025-02-15,Hyderabad,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2342,2025-02-19,Hyderabad,Minimal Logo Tee,College Stall,700,1,700,357.0,New,0
+RHYS-2343,2024-10-23,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2344,2024-11-11,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2345,2024-08-24,Pune,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2346,2024-06-04,Hyderabad,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2347,2024-05-13,Pune,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2348,2024-07-02,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2349,2024-05-05,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2350,2024-05-24,Bengaluru,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-2351,2025-02-04,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2352,2024-12-11,Mumbai,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2353,2024-07-25,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2354,2024-09-26,Mumbai,Classic Black Tee,Website,600,2,1200,612.0,New,0
+RHYS-2355,2025-01-19,Bengaluru,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2356,2024-05-16,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2357,2024-05-23,Pune,Streetwear Hoodie,Website,550,2,1100,561.0,New,0
+RHYS-2358,2025-01-26,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2359,2024-04-05,Pune,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-2360,2024-03-31,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2361,2024-11-06,Mumbai,Dragon Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-2362,2024-06-05,Mumbai,College Pop Tee,College Stall,700,1,700,357.0,Returning,1
+RHYS-2363,2024-11-05,Hyderabad,Streetwear Hoodie,Website,700,1,700,357.0,Returning,0
+RHYS-2364,2024-11-09,Mumbai,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2365,2024-12-22,Mumbai,College Pop Tee,College Stall,550,2,1100,561.0,New,0
+RHYS-2366,2024-12-22,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-2367,2024-06-06,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2368,2024-11-24,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2369,2024-11-30,Mumbai,Streetwear Hoodie,Website,700,2,1400,714.0,New,0
+RHYS-2370,2025-02-24,Bengaluru,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2371,2024-08-23,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2372,2025-01-23,Pune,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2373,2025-01-20,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2374,2025-01-29,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2375,2024-11-04,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2376,2025-01-19,Mumbai,Dragon Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-2377,2024-10-15,Hyderabad,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2378,2024-11-26,Mumbai,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2379,2024-07-16,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2380,2024-08-14,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2381,2024-03-04,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2382,2024-07-16,Hyderabad,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2383,2025-01-02,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2384,2024-05-07,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2385,2024-07-26,Hyderabad,Minimal Logo Tee,Website,600,2,1200,612.0,Returning,1
+RHYS-2386,2024-06-08,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2387,2024-05-11,Pune,College Pop Tee,Website,650,2,1300,663.0,New,1
+RHYS-2388,2024-08-15,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2389,2024-11-09,Bengaluru,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2390,2024-11-07,Mumbai,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-2391,2024-08-24,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2392,2024-09-04,Bengaluru,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2393,2024-10-21,Mumbai,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-2394,2024-07-17,Mumbai,Streetwear Hoodie,Website,650,2,1300,663.0,New,0
+RHYS-2395,2024-07-17,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2396,2024-07-21,Hyderabad,College Pop Tee,Website,600,2,1200,612.0,New,0
+RHYS-2397,2024-03-07,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2398,2024-03-20,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2399,2024-10-31,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2400,2024-07-04,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2401,2024-08-31,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2402,2024-04-14,Hyderabad,Streetwear Hoodie,Website,650,2,1300,663.0,Returning,0
+RHYS-2403,2024-06-12,Mumbai,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2404,2024-11-19,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2405,2024-05-07,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2406,2025-01-02,Hyderabad,Minimal Logo Tee,Website,650,2,1300,663.0,New,0
+RHYS-2407,2025-01-28,Mumbai,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2408,2025-02-05,Pune,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2409,2024-08-28,Bengaluru,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2410,2024-08-01,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2411,2024-07-22,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2412,2024-10-20,Bengaluru,Streetwear Hoodie,Website,700,1,700,357.0,New,0
+RHYS-2413,2024-08-30,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2414,2024-08-27,Bengaluru,Classic Black Tee,Website,650,2,1300,663.0,New,0
+RHYS-2415,2025-02-18,Pune,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2416,2024-05-13,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2417,2024-04-06,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2418,2024-08-22,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2419,2024-06-21,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2420,2024-08-09,Bengaluru,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2421,2025-01-24,Mumbai,College Pop Tee,Website,600,2,1200,612.0,New,0
+RHYS-2422,2024-05-24,Mumbai,Streetwear Hoodie,Website,700,1,700,357.0,New,0
+RHYS-2423,2024-07-28,Mumbai,Dragon Tee,Website,700,1,700,357.0,Returning,1
+RHYS-2424,2024-10-20,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2425,2024-09-16,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2426,2024-08-05,Mumbai,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2427,2024-09-07,Hyderabad,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-2428,2024-04-11,Hyderabad,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2429,2024-05-01,Mumbai,Minimal Logo Tee,Website,650,2,1300,663.0,New,0
+RHYS-2430,2024-03-13,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2431,2024-05-19,Mumbai,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2432,2024-05-18,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2433,2024-12-18,Hyderabad,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2434,2024-10-21,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2435,2024-12-05,Bengaluru,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2436,2024-08-29,Hyderabad,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-2437,2024-05-27,Hyderabad,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2438,2025-02-18,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2439,2024-03-31,Hyderabad,Minimal Logo Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-2440,2024-03-17,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2441,2024-07-01,Mumbai,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-2442,2024-10-02,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2443,2024-03-24,Pune,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2444,2024-11-20,Hyderabad,Dragon Tee,Website,600,2,1200,612.0,Returning,1
+RHYS-2445,2025-02-28,Hyderabad,Streetwear Hoodie,College Stall,700,1,700,357.0,Returning,0
+RHYS-2446,2024-04-10,Pune,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2447,2024-03-07,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2448,2024-09-17,Mumbai,Streetwear Hoodie,College Stall,550,1,550,280.5,Returning,0
+RHYS-2449,2024-03-28,Bengaluru,Streetwear Hoodie,College Stall,600,2,1200,612.0,Returning,0
+RHYS-2450,2024-04-11,Mumbai,Dragon Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2451,2025-02-06,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2452,2025-01-21,Hyderabad,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2453,2024-03-16,Hyderabad,Dragon Tee,College Stall,700,1,700,357.0,New,0
+RHYS-2454,2024-04-12,Hyderabad,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2455,2024-09-05,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2456,2024-10-14,Hyderabad,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-2457,2024-05-12,Pune,Minimal Logo Tee,College Stall,550,2,1100,561.0,New,0
+RHYS-2458,2024-07-19,Bengaluru,Classic Black Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2459,2024-12-05,Bengaluru,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2460,2025-01-20,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2461,2024-08-16,Hyderabad,Dragon Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2462,2024-07-10,Mumbai,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2463,2024-09-12,Pune,Classic Black Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2464,2024-07-28,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-2465,2024-06-22,Hyderabad,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2466,2024-05-11,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2467,2024-11-01,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2468,2024-09-08,Mumbai,Dragon Tee,Website,650,2,1300,663.0,New,0
+RHYS-2469,2024-09-15,Pune,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2470,2024-04-24,Pune,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-2471,2024-11-06,Pune,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2472,2024-09-01,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2473,2024-09-05,Bengaluru,Dragon Tee,Website,550,2,1100,561.0,New,0
+RHYS-2474,2024-06-03,Pune,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2475,2024-09-15,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2476,2024-05-01,Mumbai,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2477,2024-03-07,Bengaluru,Dragon Tee,Website,700,2,1400,714.0,Returning,0
+RHYS-2478,2024-09-24,Pune,Dragon Tee,Website,550,2,1100,561.0,New,0
+RHYS-2479,2024-10-20,Bengaluru,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-2480,2024-09-14,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2481,2024-04-03,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2482,2024-06-26,Hyderabad,Classic Black Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2483,2024-11-20,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-2484,2024-06-18,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,Returning,1
+RHYS-2485,2024-03-30,Mumbai,Minimal Logo Tee,College Stall,700,2,1400,714.0,New,1
+RHYS-2486,2024-11-24,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,1
+RHYS-2487,2024-08-07,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2488,2024-08-11,Hyderabad,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2489,2025-01-05,Hyderabad,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2490,2024-11-06,Pune,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-2491,2024-06-09,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2492,2025-01-31,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2493,2024-03-13,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2494,2024-12-12,Pune,College Pop Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2495,2024-11-05,Hyderabad,Classic Black Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2496,2025-02-20,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2497,2024-06-30,Bengaluru,Minimal Logo Tee,College Stall,700,1,700,357.0,New,0
+RHYS-2498,2024-04-07,Pune,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2499,2024-06-29,Mumbai,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2500,2025-02-28,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2501,2025-01-02,Bengaluru,Dragon Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-2502,2024-11-25,Pune,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2503,2024-06-15,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,1
+RHYS-2504,2024-07-13,Pune,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2505,2024-12-13,Hyderabad,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2506,2025-01-08,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2507,2024-08-31,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2508,2024-10-02,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2509,2024-12-24,Pune,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2510,2024-03-13,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2511,2024-03-18,Hyderabad,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2512,2024-03-29,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2513,2024-10-21,Mumbai,Dragon Tee,College Stall,650,1,650,331.5,New,1
+RHYS-2514,2024-07-10,Bengaluru,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2515,2024-09-26,Mumbai,Classic Black Tee,Website,600,1,600,306.0,Returning,1
+RHYS-2516,2024-06-21,Pune,Minimal Logo Tee,Website,650,1,650,331.5,New,1
+RHYS-2517,2024-04-20,Hyderabad,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2518,2024-05-31,Pune,College Pop Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2519,2025-02-24,Mumbai,Minimal Logo Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-2520,2025-01-19,Mumbai,Classic Black Tee,College Stall,650,2,1300,663.0,Returning,0
+RHYS-2521,2024-08-26,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-2522,2024-03-04,Hyderabad,College Pop Tee,Website,700,2,1400,714.0,New,0
+RHYS-2523,2024-12-27,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2524,2024-10-10,Pune,College Pop Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2525,2024-04-17,Pune,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2526,2024-03-19,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2527,2024-05-28,Bengaluru,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2528,2024-06-26,Pune,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2529,2024-10-29,Bengaluru,Streetwear Hoodie,College Stall,550,1,550,280.5,New,0
+RHYS-2530,2024-12-06,Mumbai,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2531,2024-05-08,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2532,2024-12-12,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2533,2024-08-08,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2534,2024-11-21,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-2535,2025-02-02,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2536,2024-05-09,Bengaluru,Classic Black Tee,College Stall,600,1,600,306.0,Returning,1
+RHYS-2537,2024-04-17,Pune,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-2538,2024-10-30,Bengaluru,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2539,2024-07-27,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-2540,2024-07-20,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2541,2024-08-18,Bengaluru,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2542,2024-12-17,Mumbai,Streetwear Hoodie,Website,700,1,700,357.0,Returning,0
+RHYS-2543,2024-05-16,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2544,2025-02-13,Mumbai,Dragon Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-2545,2024-05-17,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2546,2025-02-09,Bengaluru,Streetwear Hoodie,Website,600,2,1200,612.0,New,0
+RHYS-2547,2024-11-16,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2548,2024-12-12,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2549,2025-02-10,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2550,2025-01-01,Mumbai,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2551,2024-11-11,Hyderabad,College Pop Tee,College Stall,700,1,700,357.0,New,0
+RHYS-2552,2024-12-10,Hyderabad,Streetwear Hoodie,Website,700,1,700,357.0,Returning,1
+RHYS-2553,2024-05-31,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2554,2025-02-25,Bengaluru,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2555,2024-06-10,Hyderabad,Dragon Tee,College Stall,700,1,700,357.0,New,0
+RHYS-2556,2024-08-06,Bengaluru,Classic Black Tee,Website,700,1,700,357.0,New,0
+RHYS-2557,2024-03-03,Pune,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2558,2024-12-07,Mumbai,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2559,2024-09-30,Mumbai,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2560,2024-03-07,Mumbai,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2561,2025-02-18,Pune,Streetwear Hoodie,Website,700,1,700,357.0,Returning,0
+RHYS-2562,2024-05-10,Mumbai,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-2563,2024-04-11,Bengaluru,College Pop Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-2564,2024-03-10,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-2565,2024-07-24,Bengaluru,Classic Black Tee,Website,600,2,1200,612.0,New,0
+RHYS-2566,2025-01-24,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2567,2024-04-20,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2568,2024-06-14,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2569,2024-04-11,Mumbai,College Pop Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2570,2024-03-24,Bengaluru,Dragon Tee,College Stall,700,2,1400,714.0,Returning,0
+RHYS-2571,2024-12-10,Hyderabad,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2572,2024-07-18,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2573,2024-09-26,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2574,2024-12-03,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2575,2024-12-20,Bengaluru,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-2576,2024-09-05,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2577,2024-03-27,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2578,2025-01-08,Bengaluru,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-2579,2024-03-25,Mumbai,Dragon Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-2580,2024-10-08,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2581,2024-07-19,Pune,College Pop Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-2582,2024-06-07,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2583,2024-10-02,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2584,2024-04-19,Pune,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2585,2024-10-28,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2586,2024-07-27,Mumbai,College Pop Tee,Website,650,2,1300,663.0,New,0
+RHYS-2587,2024-03-06,Bengaluru,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-2588,2024-04-26,Bengaluru,Classic Black Tee,Website,700,1,700,357.0,New,0
+RHYS-2589,2024-08-20,Pune,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2590,2025-01-22,Pune,Dragon Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-2591,2025-01-24,Pune,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2592,2024-06-14,Pune,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2593,2024-09-01,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2594,2024-11-02,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2595,2024-11-28,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2596,2024-12-28,Mumbai,Classic Black Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2597,2024-06-29,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2598,2024-08-20,Hyderabad,Minimal Logo Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-2599,2024-12-09,Hyderabad,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2600,2024-10-31,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2601,2024-12-31,Mumbai,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2602,2024-08-03,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2603,2024-04-17,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2604,2024-03-21,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-2605,2024-05-13,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2606,2024-08-24,Mumbai,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2607,2024-04-03,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2608,2024-06-14,Mumbai,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2609,2024-08-27,Hyderabad,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2610,2025-02-13,Mumbai,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-2611,2024-06-06,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2612,2024-08-10,Hyderabad,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2613,2024-08-19,Pune,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2614,2024-11-18,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2615,2024-06-12,Pune,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2616,2024-03-24,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2617,2024-04-07,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2618,2025-02-10,Pune,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2619,2024-03-19,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,Returning,1
+RHYS-2620,2025-01-29,Hyderabad,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2621,2024-03-14,Pune,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-2622,2024-03-08,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2623,2024-04-16,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2624,2024-10-12,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2625,2024-11-15,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2626,2024-05-19,Mumbai,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2627,2024-04-11,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2628,2024-09-28,Mumbai,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-2629,2024-07-27,Pune,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2630,2024-03-28,Bengaluru,Classic Black Tee,College Stall,550,1,550,280.5,Returning,1
+RHYS-2631,2024-08-17,Hyderabad,College Pop Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2632,2024-09-25,Bengaluru,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2633,2025-02-18,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2634,2024-12-20,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2635,2025-02-10,Bengaluru,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2636,2024-05-14,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2637,2025-02-02,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2638,2024-10-05,Hyderabad,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2639,2024-06-28,Mumbai,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2640,2025-01-06,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2641,2024-06-04,Bengaluru,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2642,2025-02-13,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2643,2024-07-01,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2644,2024-09-09,Hyderabad,Classic Black Tee,Website,550,2,1100,561.0,New,0
+RHYS-2645,2024-07-30,Mumbai,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2646,2024-11-05,Mumbai,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2647,2024-12-09,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2648,2024-03-04,Mumbai,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2649,2024-08-02,Hyderabad,Streetwear Hoodie,Website,650,2,1300,663.0,New,0
+RHYS-2650,2024-12-04,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2651,2024-09-24,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2652,2025-01-16,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2653,2025-01-03,Bengaluru,College Pop Tee,College Stall,550,1,550,280.5,New,1
+RHYS-2654,2024-11-07,Hyderabad,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2655,2024-08-05,Bengaluru,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2656,2024-05-05,Hyderabad,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2657,2024-12-29,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2658,2024-09-01,Bengaluru,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2659,2024-11-19,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,Returning,1
+RHYS-2660,2024-03-20,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2661,2024-05-25,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2662,2024-10-14,Mumbai,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-2663,2024-12-31,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2664,2024-09-30,Bengaluru,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-2665,2024-11-18,Mumbai,Dragon Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-2666,2024-04-20,Pune,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2667,2024-07-21,Pune,Dragon Tee,College Stall,700,1,700,357.0,New,0
+RHYS-2668,2024-09-27,Hyderabad,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2669,2024-05-30,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2670,2024-11-09,Pune,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2671,2025-01-04,Mumbai,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2672,2024-04-18,Bengaluru,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2673,2024-11-05,Bengaluru,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2674,2024-04-23,Bengaluru,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2675,2025-02-10,Mumbai,Streetwear Hoodie,Website,600,2,1200,612.0,Returning,0
+RHYS-2676,2024-12-28,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2677,2024-06-06,Bengaluru,Dragon Tee,College Stall,650,2,1300,663.0,Returning,0
+RHYS-2678,2024-12-31,Pune,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2679,2024-05-06,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2680,2025-01-24,Pune,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2681,2024-10-10,Hyderabad,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2682,2024-12-23,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2683,2024-12-28,Bengaluru,Dragon Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-2684,2024-05-21,Hyderabad,Classic Black Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2685,2024-09-24,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,1
+RHYS-2686,2025-02-08,Mumbai,Dragon Tee,College Stall,700,1,700,357.0,New,0
+RHYS-2687,2025-01-13,Mumbai,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2688,2024-07-22,Hyderabad,Dragon Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-2689,2024-03-31,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2690,2025-01-29,Pune,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2691,2025-02-04,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2692,2025-01-22,Hyderabad,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2693,2025-01-17,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2694,2025-01-31,Bengaluru,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2695,2024-03-24,Mumbai,Minimal Logo Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2696,2025-02-22,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2697,2024-04-11,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2698,2024-12-31,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2699,2024-03-08,Hyderabad,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2700,2024-12-21,Hyderabad,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-2701,2024-07-01,Bengaluru,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2702,2024-12-31,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2703,2024-11-24,Pune,Streetwear Hoodie,College Stall,650,2,1300,663.0,Returning,0
+RHYS-2704,2024-09-05,Mumbai,Dragon Tee,College Stall,700,1,700,357.0,New,0
+RHYS-2705,2025-01-15,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2706,2024-06-28,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2707,2024-05-17,Bengaluru,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2708,2024-03-31,Pune,Dragon Tee,College Stall,650,2,1300,663.0,Returning,0
+RHYS-2709,2024-05-24,Pune,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2710,2024-11-04,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2711,2024-07-24,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2712,2024-05-17,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2713,2024-03-07,Bengaluru,Classic Black Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2714,2025-01-24,Mumbai,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2715,2025-01-23,Bengaluru,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-2716,2024-10-31,Mumbai,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2717,2024-08-25,Mumbai,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2718,2024-03-21,Hyderabad,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2719,2025-01-09,Mumbai,College Pop Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-2720,2025-01-14,Mumbai,Dragon Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2721,2024-03-03,Bengaluru,College Pop Tee,Website,600,2,1200,612.0,New,0
+RHYS-2722,2024-09-13,Bengaluru,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2723,2024-08-15,Hyderabad,College Pop Tee,Website,700,1,700,357.0,New,0
+RHYS-2724,2024-05-22,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,1
+RHYS-2725,2025-02-18,Hyderabad,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-2726,2025-01-09,Hyderabad,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2727,2024-05-07,Mumbai,Dragon Tee,College Stall,550,2,1100,561.0,New,0
+RHYS-2728,2024-12-27,Hyderabad,Dragon Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2729,2024-09-13,Mumbai,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2730,2024-10-16,Pune,Dragon Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2731,2024-03-28,Pune,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-2732,2024-07-20,Pune,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2733,2025-01-03,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2734,2025-02-02,Pune,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2735,2024-03-08,Pune,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-2736,2024-09-29,Hyderabad,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2737,2024-12-28,Bengaluru,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2738,2024-11-12,Bengaluru,Classic Black Tee,Website,600,2,1200,612.0,New,0
+RHYS-2739,2024-04-19,Mumbai,Streetwear Hoodie,Website,650,2,1300,663.0,Returning,0
+RHYS-2740,2024-03-21,Bengaluru,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2741,2024-05-25,Pune,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2742,2024-09-04,Bengaluru,Classic Black Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-2743,2024-09-29,Pune,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-2744,2024-04-13,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2745,2024-11-24,Hyderabad,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2746,2025-02-15,Bengaluru,College Pop Tee,Website,650,2,1300,663.0,New,0
+RHYS-2747,2025-01-26,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2748,2024-05-19,Mumbai,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2749,2024-09-25,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2750,2025-02-05,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2751,2024-08-31,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2752,2025-01-25,Pune,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2753,2024-03-04,Pune,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2754,2024-05-16,Hyderabad,Dragon Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-2755,2024-08-28,Hyderabad,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2756,2024-11-27,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2757,2024-07-31,Mumbai,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2758,2024-09-08,Bengaluru,College Pop Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-2759,2024-04-16,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2760,2024-04-06,Mumbai,Dragon Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-2761,2024-07-14,Pune,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2762,2024-07-09,Hyderabad,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2763,2025-01-11,Hyderabad,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2764,2025-01-12,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2765,2024-04-16,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2766,2024-09-16,Mumbai,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2767,2025-02-27,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2768,2025-01-26,Mumbai,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2769,2024-08-20,Mumbai,Classic Black Tee,College Stall,700,2,1400,714.0,Returning,0
+RHYS-2770,2024-06-12,Hyderabad,Dragon Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-2771,2024-07-08,Mumbai,College Pop Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2772,2024-08-13,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2773,2025-01-12,Hyderabad,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2774,2024-05-06,Pune,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2775,2024-07-24,Pune,Minimal Logo Tee,College Stall,700,1,700,357.0,New,0
+RHYS-2776,2024-10-06,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2777,2024-05-08,Hyderabad,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2778,2025-01-10,Pune,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2779,2024-06-01,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2780,2024-06-14,Bengaluru,College Pop Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-2781,2024-12-11,Hyderabad,College Pop Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2782,2024-07-13,Bengaluru,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2783,2024-09-17,Bengaluru,Minimal Logo Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2784,2024-03-29,Pune,Minimal Logo Tee,Website,700,1,700,357.0,New,0
+RHYS-2785,2024-03-10,Mumbai,Classic Black Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2786,2024-08-29,Pune,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2787,2025-02-19,Bengaluru,Dragon Tee,College Stall,550,2,1100,561.0,New,0
+RHYS-2788,2025-01-26,Mumbai,Dragon Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-2789,2024-04-01,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2790,2024-11-05,Mumbai,Dragon Tee,Website,600,2,1200,612.0,Returning,0
+RHYS-2791,2024-04-14,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2792,2024-08-16,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2793,2024-05-24,Bengaluru,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-2794,2025-01-22,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2795,2024-12-25,Hyderabad,Dragon Tee,College Stall,600,2,1200,612.0,New,0
+RHYS-2796,2024-09-11,Bengaluru,College Pop Tee,Website,700,2,1400,714.0,New,0
+RHYS-2797,2024-03-26,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2798,2025-01-18,Mumbai,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2799,2024-12-25,Bengaluru,Classic Black Tee,Website,700,1,700,357.0,New,0
+RHYS-2800,2024-07-08,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2801,2024-06-02,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2802,2024-10-02,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2803,2024-04-27,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2804,2024-10-23,Pune,Streetwear Hoodie,College Stall,600,1,600,306.0,Returning,0
+RHYS-2805,2024-10-30,Mumbai,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2806,2024-04-21,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2807,2024-05-01,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2808,2024-03-10,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2809,2025-01-13,Mumbai,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2810,2024-08-02,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,1
+RHYS-2811,2024-07-16,Mumbai,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2812,2024-09-20,Hyderabad,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2813,2024-05-11,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2814,2024-04-20,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2815,2024-08-05,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,Returning,1
+RHYS-2816,2024-06-08,Hyderabad,College Pop Tee,Website,650,2,1300,663.0,Returning,0
+RHYS-2817,2024-06-29,Mumbai,College Pop Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2818,2024-12-01,Bengaluru,Streetwear Hoodie,College Stall,700,1,700,357.0,New,0
+RHYS-2819,2025-01-15,Hyderabad,Streetwear Hoodie,Website,700,2,1400,714.0,Returning,0
+RHYS-2820,2024-03-27,Pune,Streetwear Hoodie,College Stall,550,2,1100,561.0,New,1
+RHYS-2821,2024-04-11,Hyderabad,Streetwear Hoodie,College Stall,600,2,1200,612.0,Returning,0
+RHYS-2822,2024-04-14,Hyderabad,Streetwear Hoodie,College Stall,550,1,550,280.5,New,0
+RHYS-2823,2025-01-16,Mumbai,College Pop Tee,College Stall,650,2,1300,663.0,Returning,0
+RHYS-2824,2024-10-23,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-2825,2024-06-02,Pune,Minimal Logo Tee,College Stall,550,2,1100,561.0,New,0
+RHYS-2826,2024-04-24,Bengaluru,College Pop Tee,College Stall,650,1,650,331.5,Returning,1
+RHYS-2827,2024-04-06,Pune,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2828,2024-09-04,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2829,2025-02-15,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2830,2024-08-10,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2831,2024-10-31,Mumbai,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2832,2024-05-17,Hyderabad,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2833,2024-10-24,Hyderabad,Classic Black Tee,College Stall,600,1,600,306.0,New,1
+RHYS-2834,2024-03-24,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2835,2024-04-28,Bengaluru,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2836,2025-02-28,Hyderabad,Minimal Logo Tee,Website,700,1,700,357.0,Returning,0
+RHYS-2837,2024-08-08,Mumbai,Streetwear Hoodie,College Stall,600,1,600,306.0,New,1
+RHYS-2838,2024-07-20,Bengaluru,Streetwear Hoodie,Website,600,2,1200,612.0,New,0
+RHYS-2839,2024-06-30,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2840,2024-10-23,Hyderabad,Dragon Tee,Website,700,1,700,357.0,New,0
+RHYS-2841,2024-12-22,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2842,2024-08-07,Hyderabad,Classic Black Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2843,2024-12-17,Hyderabad,Classic Black Tee,College Stall,600,2,1200,612.0,Returning,0
+RHYS-2844,2024-10-07,Bengaluru,College Pop Tee,Website,700,1,700,357.0,New,0
+RHYS-2845,2024-09-11,Bengaluru,Classic Black Tee,College Stall,550,2,1100,561.0,New,0
+RHYS-2846,2024-05-04,Bengaluru,Streetwear Hoodie,Website,700,1,700,357.0,Returning,1
+RHYS-2847,2024-12-19,Mumbai,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-2848,2024-12-10,Bengaluru,Classic Black Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2849,2024-11-22,Mumbai,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2850,2024-09-22,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2851,2024-12-17,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2852,2024-12-05,Mumbai,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2853,2024-06-12,Mumbai,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2854,2024-08-28,Bengaluru,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2855,2024-06-04,Hyderabad,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2856,2025-02-26,Pune,College Pop Tee,Website,650,2,1300,663.0,New,0
+RHYS-2857,2024-11-17,Hyderabad,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2858,2025-02-07,Pune,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2859,2024-10-27,Hyderabad,Classic Black Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2860,2024-08-21,Pune,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-2861,2024-03-28,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2862,2024-11-16,Pune,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-2863,2025-01-21,Mumbai,Classic Black Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2864,2024-05-13,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2865,2024-12-10,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2866,2024-09-05,Mumbai,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2867,2024-03-21,Bengaluru,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2868,2024-06-19,Bengaluru,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-2869,2025-01-01,Bengaluru,College Pop Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2870,2025-01-25,Pune,Classic Black Tee,Website,600,1,600,306.0,New,0
+RHYS-2871,2024-10-01,Pune,Minimal Logo Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2872,2024-09-01,Pune,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2873,2025-01-06,Mumbai,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2874,2024-09-22,Pune,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2875,2025-02-19,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2876,2024-10-11,Pune,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-2877,2024-03-05,Bengaluru,Dragon Tee,Website,550,2,1100,561.0,Returning,0
+RHYS-2878,2024-11-13,Mumbai,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2879,2024-10-28,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,New,1
+RHYS-2880,2024-03-27,Bengaluru,Streetwear Hoodie,Website,700,2,1400,714.0,Returning,0
+RHYS-2881,2025-01-16,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2882,2024-09-02,Bengaluru,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2883,2024-10-09,Pune,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2884,2024-09-22,Mumbai,Streetwear Hoodie,Website,700,2,1400,714.0,Returning,0
+RHYS-2885,2024-04-06,Pune,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2886,2025-02-27,Mumbai,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2887,2024-09-21,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2888,2024-03-23,Pune,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-2889,2024-11-28,Hyderabad,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2890,2025-02-03,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2891,2025-01-17,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2892,2024-04-25,Pune,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2893,2024-12-16,Pune,College Pop Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2894,2024-12-21,Hyderabad,Classic Black Tee,College Stall,650,1,650,331.5,Returning,0
+RHYS-2895,2024-08-13,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2896,2025-02-15,Bengaluru,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2897,2024-10-27,Hyderabad,Dragon Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2898,2024-05-07,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2899,2024-08-23,Mumbai,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2900,2025-01-08,Mumbai,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2901,2024-03-14,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2902,2025-01-17,Hyderabad,Streetwear Hoodie,Website,700,2,1400,714.0,New,0
+RHYS-2903,2024-11-02,Mumbai,Classic Black Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2904,2025-01-10,Bengaluru,Streetwear Hoodie,Website,700,1,700,357.0,Returning,0
+RHYS-2905,2024-07-06,Hyderabad,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2906,2024-06-05,Mumbai,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2907,2024-05-30,Mumbai,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-2908,2024-03-04,Hyderabad,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2909,2024-11-05,Mumbai,Classic Black Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2910,2025-02-20,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2911,2024-07-19,Bengaluru,Streetwear Hoodie,College Stall,650,1,650,331.5,New,0
+RHYS-2912,2024-12-20,Pune,Minimal Logo Tee,College Stall,700,1,700,357.0,New,1
+RHYS-2913,2025-02-15,Hyderabad,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2914,2025-01-30,Pune,Dragon Tee,College Stall,700,1,700,357.0,New,0
+RHYS-2915,2025-01-19,Bengaluru,Classic Black Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2916,2024-04-09,Bengaluru,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2917,2024-03-30,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2918,2024-05-25,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2919,2024-05-23,Pune,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2920,2024-10-02,Bengaluru,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2921,2024-04-05,Pune,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2922,2024-06-25,Bengaluru,College Pop Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2923,2024-08-25,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,New,0
+RHYS-2924,2024-07-18,Bengaluru,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2925,2025-02-25,Mumbai,Classic Black Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2926,2024-09-01,Hyderabad,Minimal Logo Tee,College Stall,600,1,600,306.0,Returning,0
+RHYS-2927,2025-01-02,Pune,Classic Black Tee,Website,600,1,600,306.0,Returning,1
+RHYS-2928,2024-09-28,Hyderabad,Dragon Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2929,2024-09-26,Hyderabad,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-2930,2024-06-25,Bengaluru,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2931,2024-05-31,Pune,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2932,2024-09-11,Mumbai,Dragon Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2933,2025-01-08,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2934,2024-06-10,Bengaluru,Streetwear Hoodie,College Stall,700,2,1400,714.0,New,0
+RHYS-2935,2024-09-20,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,New,0
+RHYS-2936,2025-01-20,Bengaluru,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2937,2025-02-06,Pune,Classic Black Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2938,2024-10-18,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2939,2024-10-17,Pune,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-2940,2024-08-26,Pune,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-2941,2024-09-11,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2942,2024-07-07,Hyderabad,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2943,2024-09-28,Bengaluru,Streetwear Hoodie,Website,550,1,550,280.5,New,0
+RHYS-2944,2024-05-16,Hyderabad,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2945,2024-10-27,Hyderabad,Classic Black Tee,College Stall,700,1,700,357.0,Returning,0
+RHYS-2946,2024-11-02,Pune,Streetwear Hoodie,Website,550,2,1100,561.0,Returning,0
+RHYS-2947,2025-02-19,Bengaluru,Classic Black Tee,Website,700,1,700,357.0,New,0
+RHYS-2948,2024-05-23,Bengaluru,Dragon Tee,Website,600,1,600,306.0,New,0
+RHYS-2949,2025-01-17,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2950,2024-05-21,Pune,College Pop Tee,Website,600,1,600,306.0,New,0
+RHYS-2951,2024-07-13,Pune,Streetwear Hoodie,Website,650,1,650,331.5,New,0
+RHYS-2952,2024-05-30,Bengaluru,Minimal Logo Tee,Website,650,1,650,331.5,New,0
+RHYS-2953,2024-07-21,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,1
+RHYS-2954,2024-05-19,Mumbai,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2955,2024-04-28,Mumbai,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-2956,2024-11-12,Pune,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2957,2024-09-04,Pune,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-2958,2024-11-12,Mumbai,Dragon Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2959,2024-06-25,Bengaluru,Minimal Logo Tee,Website,550,1,550,280.5,New,0
+RHYS-2960,2024-07-22,Hyderabad,College Pop Tee,College Stall,650,1,650,331.5,New,0
+RHYS-2961,2024-05-28,Hyderabad,Streetwear Hoodie,College Stall,600,2,1200,612.0,New,0
+RHYS-2962,2024-12-16,Mumbai,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2963,2024-11-29,Pune,Dragon Tee,College Stall,650,2,1300,663.0,New,0
+RHYS-2964,2025-01-06,Hyderabad,Classic Black Tee,Website,550,1,550,280.5,New,0
+RHYS-2965,2025-02-13,Pune,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-2966,2025-02-24,Mumbai,Minimal Logo Tee,Website,650,1,650,331.5,Returning,0
+RHYS-2967,2024-09-11,Mumbai,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2968,2024-12-09,Pune,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2969,2024-06-13,Bengaluru,Classic Black Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2970,2024-03-24,Hyderabad,Minimal Logo Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2971,2024-10-31,Hyderabad,College Pop Tee,Website,600,2,1200,612.0,New,0
+RHYS-2972,2024-04-21,Mumbai,Minimal Logo Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2973,2025-01-26,Hyderabad,Classic Black Tee,College Stall,600,1,600,306.0,New,0
+RHYS-2974,2024-03-23,Bengaluru,College Pop Tee,Website,550,1,550,280.5,Returning,0
+RHYS-2975,2025-02-26,Bengaluru,College Pop Tee,Website,550,2,1100,561.0,New,0
+RHYS-2976,2024-04-13,Mumbai,College Pop Tee,Website,550,1,550,280.5,New,0
+RHYS-2977,2024-07-02,Bengaluru,Streetwear Hoodie,Website,650,1,650,331.5,New,1
+RHYS-2978,2024-04-01,Hyderabad,Streetwear Hoodie,Website,700,1,700,357.0,New,0
+RHYS-2979,2024-08-28,Mumbai,Dragon Tee,Website,650,1,650,331.5,New,0
+RHYS-2980,2024-06-02,Mumbai,Streetwear Hoodie,Website,650,1,650,331.5,Returning,0
+RHYS-2981,2024-10-30,Bengaluru,College Pop Tee,Website,650,1,650,331.5,New,0
+RHYS-2982,2025-01-11,Bengaluru,Streetwear Hoodie,College Stall,600,1,600,306.0,New,0
+RHYS-2983,2024-10-14,Pune,Minimal Logo Tee,Website,600,2,1200,612.0,New,0
+RHYS-2984,2024-05-29,Bengaluru,Dragon Tee,College Stall,550,1,550,280.5,New,0
+RHYS-2985,2024-12-28,Hyderabad,College Pop Tee,College Stall,650,1,650,331.5,New,1
+RHYS-2986,2024-06-20,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2987,2025-01-21,Pune,Minimal Logo Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2988,2024-12-17,Mumbai,Dragon Tee,College Stall,550,1,550,280.5,Returning,0
+RHYS-2989,2024-03-19,Bengaluru,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2990,2024-12-26,Pune,Streetwear Hoodie,Website,550,1,550,280.5,Returning,0
+RHYS-2991,2024-04-29,Mumbai,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2992,2024-06-14,Mumbai,Streetwear Hoodie,Website,550,2,1100,561.0,New,1
+RHYS-2993,2025-01-25,Mumbai,Dragon Tee,Website,600,1,600,306.0,New,1
+RHYS-2994,2025-01-31,Pune,Dragon Tee,Website,600,1,600,306.0,Returning,0
+RHYS-2995,2024-11-22,Pune,Dragon Tee,Website,600,2,1200,612.0,New,0
+RHYS-2996,2024-05-15,Hyderabad,Classic Black Tee,Website,650,1,650,331.5,New,0
+RHYS-2997,2024-07-03,Hyderabad,Streetwear Hoodie,Website,600,1,600,306.0,Returning,0
+RHYS-2998,2024-03-21,Hyderabad,Dragon Tee,Website,550,1,550,280.5,New,0
+RHYS-2999,2024-05-04,Hyderabad,Dragon Tee,College Stall,700,1,700,357.0,New,0
